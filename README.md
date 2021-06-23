@@ -9,6 +9,7 @@
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
+90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
