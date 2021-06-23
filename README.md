@@ -2,6 +2,7 @@
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
+17 | Letter Combinations of a Phone Number | Medium | [Solution](leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 40 |  Combination Sum II | Medium| [Solution](leetcode/40.%20Combination%20Sum%20II)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
