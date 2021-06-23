@@ -2,6 +2,7 @@
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
+22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
