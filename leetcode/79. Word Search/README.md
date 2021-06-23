@@ -44,7 +44,7 @@
 **Similar Questions**:
 * [Word Search II (Hard)](https://leetcode.com/problems/word-search-ii/)
 
-## Solution 1.
+## Solution 1. Backtracking
 
 ```cpp
 // OJ: https://leetcode.com/problems/word-search/

@@ -19,7 +19,7 @@
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
-1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode\1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
+1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
 1849| Splitting a String Into Descending Consecutive Values | Medium | [Solution](leetcode/1849.%20Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values)
 1863 | Sum of All Subset XOR Totals | Easy | [Solution](leetcode/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)
 
