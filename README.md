@@ -3,9 +3,11 @@
 \# | Title | Difficulty | Solution
 ---|---|---|---
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
+40 |  Combination Sum II | Medium| [Solution](leetcode/40.%20Combination%20Sum%20II)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
+51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
-131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131. Palindrome%20Partitioning)
+131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
