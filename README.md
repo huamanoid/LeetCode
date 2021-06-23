@@ -14,6 +14,7 @@
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
+698 | Partition to K Equal Sum Subsets | Medium | [Solution](leetcode/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
