@@ -15,6 +15,7 @@
 10 | Same Tree | Easy | [Solution](leetcode/100.%20Same%20Tree)
 101 | Symmetric Tree | Easy | [Solution](leetcode/101.%20Symmetric%20Tree)
 108| Convert Sorted Array to Binary Search Tree | Easy | [Solution](leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
+112|  Path Sum | Easy | [Solution](leetcode/112.%20Path%20Sum)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)

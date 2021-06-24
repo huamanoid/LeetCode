@@ -47,7 +47,7 @@
 * [Lowest Common Ancestor of a Binary Tree III (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
 * [Lowest Common Ancestor of a Binary Tree IV (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/)
 
-## Solution 1.
+## Solution 1. Naive Approach
 
 
 ```cpp
@@ -97,12 +97,35 @@ public:
             p = up(p, diff);
         else if(diff<0)
             q = up(q, -diff);
-            
+
         while(p!=q){
             p = parent[p];
             q = parent[q];
         }
         return p;
+    }
+};
+```
+
+## Solution 2. Recursion
+Using the fact that the tree is a BST
+
+```cpp
+// OJ: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+// Author: A M A N
+// Time : O(N)
+// Space: O(N)
+class Solution {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        int pVal = p->val, qVal = q->val;
+        int node = root->val;
+        if(pVal> node and qVal>node)
+            return lowestCommonAncestor(root->right, p, q);
+        else if(pVal< node and qVal< node)
+            return lowestCommonAncestor(root->left, p, q);
+        else
+            return root;
     }
 };
 ```
