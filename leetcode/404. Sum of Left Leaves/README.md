@@ -1,0 +1,55 @@
+# [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves/)
+
+<p>Given the <code>root</code> of a binary tree, return the sum of all left leaves.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/leftsum-tree.jpg" style="width: 277px; height: 302px;">
+<pre><strong>Input:</strong> root = [3,9,20,null,null,15,7]
+<strong>Output:</strong> 24
+<strong>Explanation:</strong> There are two left leaves in the binary tree, with values 9 and 15 respectively.
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre><strong>Input:</strong> root = [1]
+<strong>Output:</strong> 0
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>The number of nodes in the tree is in the range <code>[1, 1000]</code>.</li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
+</ul>
+
+
+**Related Topics**:  
+[Tree](https://leetcode.com/tag/tree/), [Depth-First Search](https://leetcode.com/tag/depth-first-search/), [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/), [Binary Tree](https://leetcode.com/tag/binary-tree/)
+
+## Solution 1. Recursion
+
+```cpp
+// OJ: https://leetcode.com/problems/sum-of-left-leaves/
+// Author: A M A N
+// Time : O(N)
+// Space: O(N)
+class Solution {
+public:
+    int ans;
+    void dfs(TreeNode* root){
+        if(!root) return;
+        if(root->left){
+            if(!root->left->left and !root->left->right)
+                ans+=root->left->val;
+        }
+        dfs(root->left);
+        dfs(root->right);
+    }
+    int sumOfLeftLeaves(TreeNode* root) {
+        dfs(root);
+        return ans;
+    }
+};
+```
