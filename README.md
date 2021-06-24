@@ -22,6 +22,7 @@
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
+236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
 404| Sum of Left Leaves |Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
