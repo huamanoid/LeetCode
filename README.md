@@ -12,6 +12,7 @@
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
+101 | Symmetric Tree | Easy | [Solution](leetcode/101.%20Symmetric%20Tree)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
