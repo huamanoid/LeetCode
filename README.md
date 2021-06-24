@@ -22,6 +22,7 @@
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
+530 | Minimum Absolute Difference in BST | Easy | [Solution](leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST)
 543| Diameter of Binary Tree | Easy| [Solution](leetcode/543.%20Diameter%20of%20Binary%20Tree)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
