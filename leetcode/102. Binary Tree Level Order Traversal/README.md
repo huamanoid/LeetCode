@@ -43,7 +43,7 @@
 * [Cousins in Binary Tree (Easy)](https://leetcode.com/problems/cousins-in-binary-tree/)
 
 
-## Solution 1. Using Map (DFS)
+## Solution 1. Inorder - using Map 
 
 ```cpp
 // OJ: https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -69,7 +69,7 @@ public:
 };
 
 ```
-### Solution 2. Using no additional data structure (DFS)
+## Solution 2. Inorder - using no additional data structure
 
 ```cpp
 // OJ: https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -95,7 +95,7 @@ public:
 };
 ```
 
-## Solution 3. Using Queue
+## Solution 3. BFS - using queue
 
 ```cpp
 // OJ: https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -123,5 +123,66 @@ public:
         }
     return ans;
 }
+};
+```
+
+## Solution 4. BFS - using stack and map
+```cpp
+// OJ: https://leetcode.com/problems/binary-tree-level-order-traversal/
+// Author: A M A N
+// Time : O(N * log N)
+// Space: O(n)
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+       vector<vector<int>> ans;
+        map<int, vector<int>> mp;
+        stack<pair<TreeNode*, int>> st;
+        st.push({root, 0});
+        while(st.size()){
+            auto [u, level] = st.top(); st.pop();
+            if(!u) continue;
+            mp[level].push_back(u->val);
+            st.push({u->left, level+1});
+            st.push({u->right, level+1});
+        }
+        for(auto [a,v]:mp){
+            //because we're using stack, FILO
+            reverse(v.begin(), v.end());
+            ans.push_back(v);
+        }
+        return ans;
+    }
+};
+```
+
+## Solution 5. BFS - using stack and vector
+
+```cpp
+// OJ: https://leetcode.com/problems/binary-tree-level-order-traversal/
+// Author: A M A N
+// Time : O(N)
+// Space: O(N)
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> ans;
+        map<int, vector<int>> mp;
+        stack<pair<TreeNode*, int>> st;
+        st.push({root, 0});
+        while(st.size()){
+            auto [u, level] = st.top(); st.pop();
+            if(!u) continue;
+            if(ans.size()==level) ans.push_back(vector<int>());
+            ans[level].push_back(u->val);
+            st.push({u->left, level+1});
+            st.push({u->right, level+1});
+        }
+        for(auto &v:ans){
+            //because we're using stack, FILO
+            reverse(v.begin(), v.end());
+        }
+        return ans;
+    }
 };
 ```
