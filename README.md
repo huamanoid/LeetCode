@@ -14,6 +14,7 @@
 90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 10 | Same Tree | Easy | [Solution](leetcode/100.%20Same%20Tree)
+98 | Validate Binary Search Tree | Medium | [Solution](leetcode/98.%20Validate%20Binary%20Search%20Tree)
 101 | Symmetric Tree | Easy | [Solution](leetcode/101.%20Symmetric%20Tree)
 108| Convert Sorted Array to Binary Search Tree | Easy | [Solution](leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 110 | Balanced Binary Tree | Easy | [Solution](leetcode/110.%20Balanced%20Binary%20Tree)
