@@ -24,6 +24,7 @@
 110 | Balanced Binary Tree | Easy | [Solution](leetcode/110.%20Balanced%20Binary%20Tree)
 112|  Path Sum | Easy | [Solution](leetcode/112.%20Path%20Sum)
 113 | Path Sum II | Medium | [Solution](leetcode/113.%20Path%20Sum%20II)
+114 | Flatten Binary Tree to Linked List | Medium | [Solution](leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 116 | Populating Next Right Pointers in Each Node | Medium | [Solution](leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 173 | Binary Search Tree Iterator | Medium | [Solution](leetcode/173.%20Binary%20Search%20Tree%20Iterator)

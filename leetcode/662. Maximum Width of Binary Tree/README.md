@@ -71,6 +71,9 @@
 // Space: O(N)
 class Solution {
 public:
+// replace int with unsigned long long to handle overflow
+// since the indices grows exponentially, and can cause overflow for slim and tall trees
+
     int dfs(TreeNode* root, int idx, int level, vector<int> &left){ //passing left by reference otherwise for each subtree there would be a left vector seperately which wont have the left most node inserted and it will insert again the leftmost node of current subtree
         if(!root)
             return 0;
@@ -86,4 +89,37 @@ public:
     }
 };
 
+```
+
+
+## BFS 
+
+```cpp
+// OJ: https://leetcode.com/problems/maximum-width-of-binary-tree/
+// Author: A M A N
+// Time : O(N)
+// Space: O(log N)
+class Solution {
+public:
+    // BFS
+    int widthOfBinaryTree(TreeNode* root){
+        if (!root) return 0;
+        unsigned long long ans = 0;
+        queue<pair<TreeNode*, unsigned long long>> q;
+        q.push({root, 1});// node and its index
+        while(!q.empty()){
+            unsigned long long l = q.front().second, r = l;
+            unsigned long long n = q.size(); //important step, can't write i<q.size() in the for loop, as we're popping it
+            for(int i=0; i<n; i++){
+                TreeNode* u = q.front().first;
+                r = q.front().second;
+                q.pop();
+                if(u->left)  q.push({u->left,  2*r});
+                if(u->right) q.push({u->right, 2*r+1});
+            }
+            ans = max(r-l+1, ans);
+        }
+        return ans;
+    }
+};
 ```
