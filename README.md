@@ -41,6 +41,7 @@
 560 | Subarray Sum Equals K | Medium | [Solution](leetcode/560.%20Subarray%20Sum%20Equals%20K)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
+662 | Maximum Width of Binary Tree | Medium | [Solution](leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](leetcode/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
