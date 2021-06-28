@@ -91,7 +91,7 @@ public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         for(auto e: edges){
             if(dfs(e[0], e[1]))
-                return e;
+                return e; // only 1 extra edges is added
             else{
                 adj[e[0]].push_back(e[1]);
                 adj[e[1]].push_back(e[0]);
