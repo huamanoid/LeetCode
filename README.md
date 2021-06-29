@@ -47,6 +47,7 @@
 560 | Subarray Sum Equals K | Medium | [Solution](leetcode/560.%20Subarray%20Sum%20Equals%20K)
 563 | Binary Tree Tilt | Easy | [Solution](leetcode/563.%20Binary%20Tree%20Tilt)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
+589 | N-ary Tree Preorder Traversal | Easy | [Solution](leetcode/589.%20N-ary%20Tree%20Preorder%20Traversal)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 653 | Two Sum IV - Input is a BST | Easy | [Solution](leetcode/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)
