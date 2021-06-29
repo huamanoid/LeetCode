@@ -29,6 +29,7 @@
 114 | Flatten Binary Tree to Linked List | Medium | [Solution](leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 116 | Populating Next Right Pointers in Each Node | Medium | [Solution](leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
+145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 173 | Binary Search Tree Iterator | Medium | [Solution](leetcode/173.%20Binary%20Search%20Tree%20Iterator)
 199 | Binary Tree Right Side View | Medium | [Solution](leetcode/199.%20Binary%20Tree%20Right%20Side%20View)
 207 | Course Schedule | Medium | [Solution](leetcode/207.%20Course%20Schedule)
