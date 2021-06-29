@@ -45,6 +45,7 @@
 530 | Minimum Absolute Difference in BST | Easy | [Solution](leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST)
 543| Diameter of Binary Tree | Easy| [Solution](leetcode/543.%20Diameter%20of%20Binary%20Tree)
 560 | Subarray Sum Equals K | Medium | [Solution](leetcode/560.%20Subarray%20Sum%20Equals%20K)
+563 | Binary Tree Tilt | Easy | [Solution](leetcode/563.%20Binary%20Tree%20Tilt)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
