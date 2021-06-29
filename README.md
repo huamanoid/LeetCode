@@ -23,6 +23,7 @@
 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Solution](leetcode/103.%20Binary%20Tree%20Zigzag%20Level%20Order)
 108| Convert Sorted Array to Binary Search Tree | Easy | [Solution](leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 110 | Balanced Binary Tree | Easy | [Solution](leetcode/110.%20Balanced%20Binary%20Tree)
+111 | Minimum Depth of Binary Tree | Easy | [Solution](leetcode/111.%20Minimum%20Depth%20of%20Binary%20Tree)
 112|  Path Sum | Easy | [Solution](leetcode/112.%20Path%20Sum)
 113 | Path Sum II | Medium | [Solution](leetcode/113.%20Path%20Sum%20II)
 114 | Flatten Binary Tree to Linked List | Medium | [Solution](leetcode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
