@@ -59,6 +59,7 @@
 662 | Maximum Width of Binary Tree | Medium | [Solution](leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree)
 671 | Second Minimum Node In a Binary Tree | Easy | [Solution](leetcode/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)
 684 | Redundant Connection | Medium | [Solution](leetcode/684.%20Redundant%20Connection)
+690 | Employee Importance | Easy | [Solution](leetcode/690.%20Employee%20Importance)
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](leetcode/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
  733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
  783 | Minimum Distance Between BST Nodes | Easy | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
