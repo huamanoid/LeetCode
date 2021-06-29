@@ -64,6 +64,7 @@
 889 | Construct Binary Tree from Preorder and Postorder Traversal | Medium | [Solution](leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 959 | Regions Cut By Slashes | Medium | [Solution](leetcode/959.%20Regions%20Cut%20By%20Slashes)
+965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
