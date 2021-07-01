@@ -45,19 +45,21 @@
 ```cpp
 // OJ: https://leetcode.com/problems/redundant-connection/
 // Author: A M A N
-// Time : O()
-// Space: O()
+// Time : O(ElogE)
+// Space: O(E)
 class Solution {
 public:
     int p[1001];
     int find(int u){
-        while(p[u]!=-1)
+        while(u!=p[u]){
+            p[u] = p[p[u]]; // path compression
             u = p[u];
-        return u;
+        }
+        return p[u];
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        memset(p, -1, sizeof p);
-        for(auto &e: edges){
+        iota(p, p+1000, 0);
+        for(auto e: edges){
             int u = find(e[0]), v = find(e[1]);
             if(u!=v)
                 p[u] = v;
