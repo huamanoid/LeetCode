@@ -83,6 +83,7 @@
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
+987 | Vertical Order Traversal of a Binary Tree | Hard | [Solution](leetcode/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
