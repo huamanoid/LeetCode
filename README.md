@@ -74,6 +74,7 @@
  733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
  783 | Minimum Distance Between BST Nodes | Easy | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
+785 | Is Graph Bipartite | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite)
 797 | All Paths From Source to Target | Medium | [Solution](leetcode/797.%20All%20Paths%20From%20Source%20to%20Target)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
