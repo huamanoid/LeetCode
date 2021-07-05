@@ -43,6 +43,7 @@
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
+297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
 404| Sum of Left Leaves |Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
