@@ -93,6 +93,7 @@
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 1462 | Course Schedule IV | Medium | [Solution](leetcode/1462.%20Course%20Schedule%20IV)
+1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
 1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
 1849| Splitting a String Into Descending Consecutive Values | Medium | [Solution](leetcode/1849.%20Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values)
