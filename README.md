@@ -76,6 +76,7 @@
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](leetcode/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 721 | Accounts Merge | Medium | [Solution](leetcode/721.%20Accounts%20Merge)
  733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
+ 743 | Network Delay Time | Medium | [Solution](leetcode/743.%20Network%20Delay%20Time)
  783 | Minimum Distance Between BST Nodes | Easy | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 785 | Is Graph Bipartite | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite)
