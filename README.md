@@ -95,6 +95,7 @@
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 994 | Rotting Oranges | Medium | [Solution](leetcode/994.%20Rotting%20Oranges)
 997 | Find the Town Judge | Easy | [Solution](leetcode/997.%20Find%20the%20Town%20Judge)
+1020 | Number of Enclaves | Medium | [Solution](leetcode/1020.%20Number%20of%20Enclaves)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 1254 | Number of Closed Islands | Medium | [Solution](leetcode/1254.%20Number%20of%20Closed%20Islands)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
