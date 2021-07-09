@@ -81,6 +81,7 @@
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 785 | Is Graph Bipartite | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite)
 797 | All Paths From Source to Target | Medium | [Solution](leetcode/797.%20All%20Paths%20From%20Source%20to%20Target)
+802 | Find Eventual Safe States | Medium | [Solution](leetcode/802.%20Find%20Eventual%20Safe%20States)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
 889 | Construct Binary Tree from Preorder and Postorder Traversal | Medium | [Solution](leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)

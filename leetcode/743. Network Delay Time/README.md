@@ -130,6 +130,7 @@ public:
 
 ## Solution 4. Dijkstra's Algorithm
 
+
 ```cpp
 // OJ: https://leetcode.com/problems/network-delay-time/
 // Author: A M A N
@@ -157,6 +158,7 @@ public:
                 if(d[v] > d[u] + w){ 
                     d[v] = d[u] + w;
                     // vis[v] = 1;  // this is a wrong version 
+                    //because marking visited here would restrict availing the visited node to relax other already existing nodes in the queue, so calling it processed array would be a better option  and marking it processed when its time comes. 
                     pq.push({-d[v] , v}); 
                 }
             }
