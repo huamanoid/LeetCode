@@ -107,6 +107,7 @@
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
 1254 | Number of Closed Islands | Medium | [Solution](leetcode/1254.%20Number%20of%20Closed%20Islands)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
+1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [Solution](leetcode/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 1376 | Time Needed to Inform All Employees | Medium | [Solution](leetcode/1376.%20Time%20Needed%20to%20Inform%20All%20Employees)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
