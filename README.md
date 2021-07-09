@@ -91,6 +91,7 @@
 909 | Snakes and Ladders | Medium | [Solution](leetcode/909.%20Snakes%20and%20Ladders)
 922 | Sort Array By Parity II | Easy | [Solution](leetcode/922.%20Sort%20Array%20By%20Parity%20II)
 934 | Shortest Bridge | Medium | [Solution](leetcode/934.%20Shortest%20Bridge)
+947 | Most Stones Removed with Same Row or Column | Medium | [Solution](leetcode/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 959 | Regions Cut By Slashes | Medium | [Solution](leetcode/959.%20Regions%20Cut%20By%20Slashes)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
