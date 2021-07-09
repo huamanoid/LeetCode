@@ -103,6 +103,7 @@
 997 | Find the Town Judge | Easy | [Solution](leetcode/997.%20Find%20the%20Town%20Judge)
 1020 | Number of Enclaves | Medium | [Solution](leetcode/1020.%20Number%20of%20Enclaves)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
+1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
 1254 | Number of Closed Islands | Medium | [Solution](leetcode/1254.%20Number%20of%20Closed%20Islands)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
