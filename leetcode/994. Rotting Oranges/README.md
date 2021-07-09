@@ -50,7 +50,7 @@
 **Similar Questions**:
 * [Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates/)
 
-## Solution 1.
+## Solution 1. BFS (Multi-centred)
 
 ```cpp
 // OJ: https://leetcode.com/problems/rotting-oranges/
@@ -60,6 +60,8 @@
 class Solution {
 public:
     int n, m;
+    int dx[4] = {0,  0,-1, 1};
+    int dy[4] = {1, -1, 0, 0};
     bool isValid(int x, int y){
         if(x<0 or y<0 or x>=n or y>=m)return false;
         return true;
@@ -70,15 +72,18 @@ public:
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(grid[i][j]==2)
-                    q.push({i, j});
+                    q.push({i, j}); //multicentred BFS
             }
         }
         while(!q.empty()){
             auto [x, y] = q.front(); q.pop();
-            if(isValid(x+1, y) and grid[x+1][y]==1) grid[x+1][y] = 1 + grid[x][y],   q.push({x+1, y});
-            if(isValid(x-1, y) and grid[x-1][y]==1) grid[x-1][y] = 1 + grid[x][y],   q.push({x-1, y});
-            if(isValid(x, y+1) and grid[x][y+1]==1) grid[x][y+1] = 1 + grid[x][y],   q.push({x, y+1});
-            if(isValid(x, y-1) and grid[x][y-1]==1) grid[x][y-1] = 1 + grid[x][y],   q.push({x, y-1});
+            for(int i=0; i<4; i++){
+                int X = x + dx[i];
+                int Y = y + dy[i];
+                if(!isValid(X, Y) or grid[X][Y]!=1)continue;
+                grid[X][Y] = 1 + grid[x][y];
+                q.push({X, Y});
+            }
         }
         int mx = 0;
         for(int i=0; i<n; i++){
