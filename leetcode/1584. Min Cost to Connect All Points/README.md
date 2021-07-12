@@ -146,13 +146,13 @@ public:
             }
         }
         
-        // Building a heap from the array is O(n), then pulling one element is O(log n). That's using make_heap instead of adding elements to the heap one-by-one.
-        make_heap(begin(edges), end(edges), greater<array<int,3>>()); 
+        // Building a heap from the array is O(n), then pulling one element is O(log n). That's why using make_heap instead of adding elements to the heap one-by-one.
+        make_heap(edges.begin(), edges.end(), greater<array<int,3>>()); 
 
         int cnt=0; 
         int ans = 0;
         while(!edges.empty()){
-            pop_heap(begin(edges), end(edges), greater<array<int,3>>()); // takes the top element in the heap and moves it to the back of the array, moves the largest to the end
+            pop_heap(edges.begin(), edges.end(), greater<array<int,3>>()); // takes the top element in the heap and moves it to the back of the array, moves the largest to the end
             auto [w, u, v] = edges.back();
             edges.pop_back();
             
