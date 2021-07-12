@@ -84,6 +84,7 @@
 785 | Is Graph Bipartite | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite)
 797 | All Paths From Source to Target | Medium | [Solution](leetcode/797.%20All%20Paths%20From%20Source%20to%20Target)
 802 | Find Eventual Safe States | Medium | [Solution](leetcode/802.%20Find%20Eventual%20Safe%20States)
+821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 841 | Keys and Rooms | Medium | [Solution](leetcode/841.%20Keys%20and%20Rooms)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
