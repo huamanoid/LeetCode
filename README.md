@@ -53,6 +53,7 @@
 297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 301 | Remove Invalid Parentheses | Hard | [Solution](leetcode/301.%20Remove%20Invalid%20Parentheses)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
+338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
 404| Sum of Left Leaves |Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
 437 | Path Sum III | Medium | [Solution](leetcode/437.%20Path%20Sum%20III)
