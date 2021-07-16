@@ -37,6 +37,7 @@
 130 | Surrounded Regions | Medium | [Solution](leetcode/130.%20Surrounded%20Regions)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
 133 | Clone Graph | Medium | [Solution](leetcode/133.%20Clone%20Graph)
+139 | Word Break | Medium | [Solution](leetcode/139.%20Word%20Break)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 173 | Binary Search Tree Iterator | Medium | [Solution](leetcode/173.%20Binary%20Search%20Tree%20Iterator)
