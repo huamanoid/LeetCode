@@ -10,6 +10,7 @@
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
 52 | N-Queens II | Hard | [Solution](leetcode/52.%20N-Queens%20II)
+53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
