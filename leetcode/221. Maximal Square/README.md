@@ -43,6 +43,11 @@
 
 <img src="https://assets.leetcode.com/users/arkaung/image_1587997244.png" >
 
+NOTE:
+> dp[i][j] means the size of biggest square with matrix[i][j] as bottom-right corner.
+
+> dp[i][j] also means the number of squares with matrix[i][j] as bottom-right corner.
+
 ```cpp
 // OJ: https://leetcode.com/problems/maximal-square/
 // Author: A M A N
