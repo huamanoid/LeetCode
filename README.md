@@ -6,6 +6,7 @@
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 37|  Sudoku Solver |Hard| [Solution](leetcode/37.%20Sudoku%20Solver)
 40 |  Combination Sum II | Medium| [Solution](leetcode/40.%20Combination%20Sum%20II)
+42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
