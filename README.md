@@ -49,6 +49,7 @@
 207 | Course Schedule | Medium | [Solution](leetcode/207.%20Course%20Schedule)
 210 | Course Schedule II | Medium | [Solution](leetcode/210.%20Course%20Schedule%20II)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
+221 | Maximal Square | Medium | [Solution](leetcode/221.%20Maximal%20Square)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 230 | Kth Smallest Element in a BST | Medium | [Solution](leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
