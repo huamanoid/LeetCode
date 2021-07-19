@@ -158,8 +158,8 @@ So in the end our res contains [0,2,3,4,5,9] which is not a found sequence, but 
 
 ```cpp
 // OJ: https://leetcode.com/problems/longest-increasing-subsequence/
-// Author: github.com/lzl124631x
-// Time: O(NlogN)
+// Author: A M A N
+// Time : O(NlogN)
 // Space: O(N)
 class Solution {
 public:
