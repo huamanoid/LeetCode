@@ -18,6 +18,7 @@
 53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
 62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
+72 | Edit Distance | Hard | [Solution](leetcode/72.%20Edit%20Distance)
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 85 | Maximal Rectangle | Hard | [Solution](leetcode/85.%20Maximal%20Rectangle)
