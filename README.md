@@ -68,6 +68,7 @@
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
 301 | Remove Invalid Parentheses | Hard | [Solution](leetcode/301.%20Remove%20Invalid%20Parentheses)
 304 | Range Sum Query 2D - Immutable | Medium | [Solution](leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
+312 | Burst Balloons | Hard | [Solution](leetcode/312.%20Burst%20Balloons)
 322 | Coin Change | Medium | [Solution](leetcode/322.%20Coin%20Change)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
