@@ -119,6 +119,7 @@
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
 886 | Possible Bipartition | Medium | [Solution](leetcode/886.%20Possible%20Bipartition)
+887 | Super Egg Drop | Hard | [Solution](leetcode/887.%20Super%20Egg%20Drop)
 889 | Construct Binary Tree from Preorder and Postorder Traversal | Medium | [Solution](leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 909 | Snakes and Ladders | Medium | [Solution](leetcode/909.%20Snakes%20and%20Ladders)
