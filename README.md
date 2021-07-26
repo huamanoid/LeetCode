@@ -24,6 +24,7 @@
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 85 | Maximal Rectangle | Hard | [Solution](leetcode/85.%20Maximal%20Rectangle)
 90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
+91 | Decode Ways | Medium | [Solution](leetcode/91.%20Decode%20Ways)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 95 | Unique Binary Search Trees II | Medium | [Solution](leetcode/95.%20Unique%20Binary%20Search%20Trees%20II)
 96 | Unique Binary Search Trees | Medium | [Solution](leetcode/96.%20Unique%20Binary%20Search%20Trees)
