@@ -148,6 +148,7 @@
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 1025 | Divisor Game | Easy | [Solution](leetcode/1025.%20Divisor%20Game)
 1027 | Longest Arithmetic Subsequence | Medium | [Solution](leetcode/1027.%20Longest%20Arithmetic%20Subsequence)
+1049 | Last Stone Weight II | Medium | [Solution](leetcode/1049.%20Last%20Stone%20Weight%20II)
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
 1192 | Critical Connections in a Network | Hard | [Solution](leetcode/1192.%20Critical%20Connections%20in%20a%20Network)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
