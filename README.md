@@ -127,6 +127,7 @@
 340:star: | Longest Substring with At Most K Distinct Characters | Medium | [Solution](leetcode/340·%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)
 343 | Integer Break | Medium | [Solution](leetcode/343.%20Integer%20Break)
 347 | Top K Frequent Elements | Medium | [Solution](leetcode/347.%20Top%20K%20Frequent%20Elements)
+359:star: | Logger Rate Limiter | Easy | [Solution](leetcode/359.%20Logger%20Rate%20Limiter)
 370:star:| Range Addition | Medium | [Solution](leetcode/370.%20Range%20Addition)
 376 | Wiggle Subsequence | Medium | [Solution](leetcode/376.%20Wiggle%20Subsequence)
 378 | Kth Smallest Element in a Sorted Matrix | Medium | [Solution](leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
