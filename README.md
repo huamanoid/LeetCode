@@ -163,6 +163,7 @@
 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [Solution](leetcode/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
 1335 | Minimum Difficulty of a Job Schedule | Hard | [Solution](leetcode/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
+1346 | Check If N and Its Double Exist | Easy | [Solution](leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)
 1376 | Time Needed to Inform All Employees | Medium | [Solution](leetcode/1376.%20Time%20Needed%20to%20Inform%20All%20Employees)
 1380 | Lucky Numbers in a Matrix | Easy | [Solution](leetcode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
