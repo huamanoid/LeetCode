@@ -169,6 +169,7 @@
 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard | [Solution](leetcode/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree)
 1547 | Minimum Cost to Cut a Stick | Hard | [Solution](leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick)
 1584 | Min Cost to Connect All Points | Medium | [Solution](leetcode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
+1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
