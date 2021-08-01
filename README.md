@@ -7,6 +7,7 @@
 20 | Valid Parentheses | Easy | [Solution](leetcode/20.%20Valid%20Parentheses)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 32 | Longest Valid Parentheses | Hard | [Solution](leetcode/32.%20Longest%20Valid%20Parentheses)
+33 | Search in Rotated Sorted Array | Medium | [Solution](leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array)
 37|  Sudoku Solver |Hard| [Solution](leetcode/37.%20Sudoku%20Solver)
 40 |  Combination Sum II | Medium| [Solution](leetcode/40.%20Combination%20Sum%20II)
 42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
