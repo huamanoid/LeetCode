@@ -24,6 +24,7 @@
 69 | Sqrt(x) | Easy | [Solution](leetcode/69.%20Sqrtx)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
 72 | Edit Distance | Hard | [Solution](leetcode/72.%20Edit%20Distance)
+74 | Search a 2D Matrix | Medium | [Solution](leetcode/74.%20Search%20a%202D%20Matrix)
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 85 | Maximal Rectangle | Hard | [Solution](leetcode/85.%20Maximal%20Rectangle)
