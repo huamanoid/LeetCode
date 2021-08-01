@@ -56,6 +56,7 @@
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 152 | Maximum Product Subarray | Medium | [Solution](leetcode/152.%20Maximum%20Product%20Subarray)
+153 | Find Minimum in Rotated Sorted Array | Medium | [Solution](leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 173 | Binary Search Tree Iterator | Medium | [Solution](leetcode/173.%20Binary%20Search%20Tree%20Iterator)
 188 | Best Time to Buy and Sell Stock IV | Hard | [Solution](leetcode/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 198 | House Robber | Medium | [Solution](leetcode/198.%20House%20Robber)
