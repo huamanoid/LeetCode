@@ -168,6 +168,7 @@
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
 1192 | Critical Connections in a Network | Hard | [Solution](leetcode/1192.%20Critical%20Connections%20in%20a%20Network)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
+1231 | Divide Chocolate | Hard | [Solution](leetcode/1231.%20Divide%20Chocolate)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](leetcode/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1254 | Number of Closed Islands | Medium | [Solution](leetcode/1254.%20Number%20of%20Closed%20Islands)
 1267 | Count Servers that Communicate | Medium | [Solution](leetcode/1267.%20Count%20Servers%20that%20Communicate)
