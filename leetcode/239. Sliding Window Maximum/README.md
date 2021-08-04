@@ -92,3 +92,35 @@ public:
     }
 };
 ```
+
+using monotonically decreasing queue/list
+
+```cpp
+// OJ: https://leetcode.com/problems/sliding-window-maximum/
+// Author: A M A N
+// Time : O(N)
+// Space: O(K)
+class Solution {
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        vector<int> ans;
+        list<int> list; // maintain a monotonically decreasing list
+        int i=0, j=0;
+        while(j<nums.size()){
+            while(!list.empty() and list.back()<nums[j])
+                list.pop_back();
+            list.push_back(nums[j]);
+            int window = j-i+1;
+            if(window<k){
+                j++; // increase the size of window
+            }else if(window==k){
+                ans.push_back(list.front());
+                if(list.front()==nums[i]) // first element of the window will be at the front OR might have been removed by an afterwards greater element 
+                    list.pop_front();
+                i++, j++; // slide the window
+            }
+        }
+        return ans;
+    }
+};
+```
