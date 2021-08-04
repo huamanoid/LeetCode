@@ -205,6 +205,7 @@
 1791 | Find Center of Star Graph | Easy | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
 1849| Splitting a String Into Descending Consecutive Values | Medium | [Solution](leetcode/1849.%20Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values)
 1863 | Sum of All Subset XOR Totals | Easy | [Solution](leetcode/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)
+1876 | Substrings of Size Three with Distinct Characters | Easy | [Solution](leetcode/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters)
 1913 | Maximum Product Difference Between Two Pairs | Easy | [Solution](leetcode/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
 1920 | Build Array from Permutation | Easy | [Solution](leetcode/1920.%20Build%20Array%20from%20Permutation)
 1929 | Concatenation of Array | Easy | [Solution](leetcode/1929.%20Concatenation%20of%20Array)
