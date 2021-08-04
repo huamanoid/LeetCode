@@ -23,7 +23,7 @@
 ## Solution 1. Sliding Window
 
 ```cpp
-// OJ: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// OJ: https://www.lintcode.com/problem/928/
 // Author: A M A N
 // Time : O(N)
 // Space: O(1)  

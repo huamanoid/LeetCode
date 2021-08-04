@@ -89,6 +89,7 @@
 322 | Coin Change | Medium | [Solution](leetcode/322.%20Coin%20Change)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
+340 | Longest Substring with At Most K Distinct Characters | Medium | [Solution](leetcode/340·%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
 403 | Frog Jump | Hard | [Solution](leetcode/403.%20Frog%20Jump)
 404| Sum of Left Leaves |Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
