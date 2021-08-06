@@ -149,6 +149,7 @@
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
 875 | Koko Eating Bananas | Medium | [Solution](leetcode/875.%20Koko%20Eating%20Bananas)
+877 | Stone Game | Medium | [Solution](leetcode/877.%20Stone%20Game)
 886 | Possible Bipartition | Medium | [Solution](leetcode/886.%20Possible%20Bipartition)
 887 | Super Egg Drop | Hard | [Solution](leetcode/887.%20Super%20Egg%20Drop)
 888 | Fair Candy Swap | Easy | [Solution](leetcode/888.%20Fair%20Candy%20Swap)
