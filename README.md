@@ -95,6 +95,7 @@
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 340 | Longest Substring with At Most K Distinct Characters | Medium | [Solution](leetcode/340·%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
+395 | Longest Substring with At Least K Repeating Characters | Medium | [Solution](leetcode/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
 403 | Frog Jump | Hard | [Solution](leetcode/403.%20Frog%20Jump)
 404| Sum of Left Leaves |Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
 410 | Split Array Largest Sum | Hard | [Solution](leetcode/410.%20Split%20Array%20Largest%20Sum)
