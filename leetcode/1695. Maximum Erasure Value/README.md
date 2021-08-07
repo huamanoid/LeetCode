@@ -42,7 +42,7 @@
 // OJ: https://leetcode.com/problems/maximum-erasure-value/
 // Author: A M A N
 // Time : O(N)
-// Space: O(1)
+// Space: O(N)
 class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {

@@ -68,6 +68,7 @@
 159 | Longest Substring with At Most Two Distinct Characters | Medium | [Solution](leetcode/159·%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters)
 162 | Find Peak Element | Medium | [Solution](leetcode/162.%20Find%20Peak%20Element)
 173 | Binary Search Tree Iterator | Medium | [Solution](leetcode/173.%20Binary%20Search%20Tree%20Iterator)
+187 | Repeated DNA Sequences | Medium | [Solution](leetcode/187.%20Repeated%20DNA%20Sequences)
 188 | Best Time to Buy and Sell Stock IV | Hard | [Solution](leetcode/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 198 | House Robber | Medium | [Solution](leetcode/198.%20House%20Robber)
 199 | Binary Tree Right Side View | Medium | [Solution](leetcode/199.%20Binary%20Tree%20Right%20Side%20View)
