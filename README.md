@@ -57,6 +57,7 @@
 127 | Word Ladder | Hard | [Solution](leetcode/127.%20Word%20Ladder)
 130 | Surrounded Regions | Medium | [Solution](leetcode/130.%20Surrounded%20Regions)
 131 |  Palindrome Partitioning  | Medium | [Solution](leetcode/131.%20Palindrome%20Partitioning)
+132 | Palindrome Partitioning II | Hard | [Solution](leetcode/132.%20Palindrome%20Partitioning%20II)
 133 | Clone Graph | Medium | [Solution](leetcode/133.%20Clone%20Graph)
 139 | Word Break | Medium | [Solution](leetcode/139.%20Word%20Break)
 140 | Word Break II | Hard | [Solution](leetcode/140.%20Word%20Break%20II)
