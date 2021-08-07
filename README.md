@@ -208,6 +208,7 @@
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
+1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
 1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
 1745 | Palindrome Partitioning IV | Hard | [Solution](leetcode/1745.%20Palindrome%20Partitioning%20IV)
