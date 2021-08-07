@@ -173,6 +173,7 @@
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 994 | Rotting Oranges | Medium | [Solution](leetcode/994.%20Rotting%20Oranges)
 997 | Find the Town Judge | Easy | [Solution](leetcode/997.%20Find%20the%20Town%20Judge)
+1004 | Max Consecutive Ones III | Medium | [Solution](leetcode/1004.%20Max%20Consecutive%20Ones%20III)
 1011 | Capacity To Ship Packages Within D Days | Medium | [Solution](leetcode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)
 1020 | Number of Enclaves | Medium | [Solution](leetcode/1020.%20Number%20of%20Enclaves)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
