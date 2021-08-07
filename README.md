@@ -103,6 +103,7 @@
 438 | Find All Anagrams in a String | Medium | [Solution](leetcode/438.%20Find%20All%20Anagrams%20in%20a%20String)
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
 474 | Ones and Zeroes | Medium | [Solution](leetcode/474.%20Ones%20and%20Zeroes)
+485 | Max Consecutive Ones | Easy | [Solution](leetcode/485.%20Max%20Consecutive%20Ones)
 501 | Find Mode in Binary Search Tree | Easy | [Solution](leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)
 509 | Fibonacci Number | Easy | [Solution](leetcode/509.%20Fibonacci%20Number)
 513 | Find Bottom Left Tree Value | Medium | [Solution](leetcode/513.%20Find%20Bottom%20Left%20Tree%20Value)
