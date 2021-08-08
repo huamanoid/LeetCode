@@ -76,6 +76,7 @@
 207 | Course Schedule | Medium | [Solution](leetcode/207.%20Course%20Schedule)
 208 | Implement Trie (Prefix Tree) | Medium | [Solution](leetcode/208.%20Implement%20Trie%20Prefix%20Tree)
 210 | Course Schedule II | Medium | [Solution](leetcode/210.%20Course%20Schedule%20II)
+211 | Design Add and Search Words Data Structure | Medium | [Solution](leetcode/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 219 | Contains Duplicate II | Easy | [Solution](leetcode/219.%20Contains%20Duplicate%20II)
 221 | Maximal Square | Medium | [Solution](leetcode/221.%20Maximal%20Square)
