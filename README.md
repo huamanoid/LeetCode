@@ -127,6 +127,7 @@
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
 643 | Maximum Average Subarray I | Easy | [Solution](leetcode/643.%20Maximum%20Average%20Subarray%20I)
 647 | Palindromic Substrings | Medium | [Solution](leetcode/647.%20Palindromic%20Substrings)
+648 | Replace Words | Medium | [Solution](leetcode/648.%20Replace%20Words)
 653 | Two Sum IV - Input is a BST | Easy | [Solution](leetcode/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)
 662 | Maximum Width of Binary Tree | Medium | [Solution](leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree)
 663 | Walls and Gates | Medium | [Solution](leetcode/663.%20Walls%20and%20Gates)
