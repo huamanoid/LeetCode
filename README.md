@@ -74,6 +74,7 @@
 199 | Binary Tree Right Side View | Medium | [Solution](leetcode/199.%20Binary%20Tree%20Right%20Side%20View)
 200 | Number of Islands | Medium | [Solution](leetcode/200.%20Number%20of%20Islands)
 207 | Course Schedule | Medium | [Solution](leetcode/207.%20Course%20Schedule)
+208 | Implement Trie (Prefix Tree) | Medium | [Solution](leetcode/208.%20Implement%20Trie%20Prefix%20Tree)
 210 | Course Schedule II | Medium | [Solution](leetcode/210.%20Course%20Schedule%20II)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 219 | Contains Duplicate II | Easy | [Solution](leetcode/219.%20Contains%20Duplicate%20II)
