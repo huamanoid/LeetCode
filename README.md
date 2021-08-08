@@ -151,6 +151,7 @@
 827 | Making A Large Island | Hard | [Solution](leetcode/827.%20Making%20A%20Large%20Island)
 841 | Keys and Rooms | Medium | [Solution](leetcode/841.%20Keys%20and%20Rooms)
 848 | Shifting Letters | Medium | [Solution](leetcode/848.%20Shifting%20Letters)
+849 | Maximize Distance to Closest Person | Medium | [Solution](leetcode/849.%20Maximize%20Distance%20to%20Closest%20Person)
 852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
