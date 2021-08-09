@@ -97,6 +97,7 @@
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 340 | Longest Substring with At Most K Distinct Characters | Medium | [Solution](leetcode/340·%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)
+386 | Lexicographical Numbers | Medium | [Solution](leetcode/386.%20Lexicographical%20Numbers)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
 395 | Longest Substring with At Least K Repeating Characters | Medium | [Solution](leetcode/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
 403 | Frog Jump | Hard | [Solution](leetcode/403.%20Frog%20Jump)
