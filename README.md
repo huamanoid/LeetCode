@@ -136,6 +136,7 @@
 662 | Maximum Width of Binary Tree | Medium | [Solution](leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree)
 663 | Walls and Gates | Medium | [Solution](leetcode/663.%20Walls%20and%20Gates)
 671 | Second Minimum Node In a Binary Tree | Easy | [Solution](leetcode/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)
+676 | Implement Magic Dictionary | Medium | [Solution](leetcode/676.%20Implement%20Magic%20Dictionary)
 684 | Redundant Connection | Medium | [Solution](leetcode/684.%20Redundant%20Connection)
 690 | Employee Importance | Easy | [Solution](leetcode/690.%20Employee%20Importance)
 695 | Max Area of Island | Medium | [Solution](leetcode/695.%20Max%20Area%20of%20Island)
