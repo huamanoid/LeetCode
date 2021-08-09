@@ -143,6 +143,7 @@
 698 | Partition to K Equal Sum Subsets | Medium | [Solution](leetcode/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 704 | Binary Search | Easy | [Solution](leetcode/704.%20Binary%20Search)
 718 | Maximum Length of Repeated Subarray | Medium | [Solution](leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray)
+720 | Longest Word in Dictionary | Medium | [Solution](leetcode/720.%20Longest%20Word%20in%20Dictionary)
 721 | Accounts Merge | Medium | [Solution](leetcode/721.%20Accounts%20Merge)
 733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
 740 | Delete and Earn | Medium | [Solution](leetcode/740.%20Delete%20and%20Earn)
