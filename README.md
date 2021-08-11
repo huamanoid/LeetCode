@@ -177,6 +177,7 @@
 934 | Shortest Bridge | Medium | [Solution](leetcode/934.%20Shortest%20Bridge)
 935 | Knight Dialer | Medium | [Solution](leetcode/935.%20Knight%20Dialer)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](leetcode/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
+954 | Array of Doubled Pairs | Medium | [Solution](leetcode/954.%20Array%20of%20Doubled%20Pairs)
 959 | Regions Cut By Slashes | Medium | [Solution](leetcode/959.%20Regions%20Cut%20By%20Slashes)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 967| Numbers With Same Consecutive Differences |Medium| [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences) 
