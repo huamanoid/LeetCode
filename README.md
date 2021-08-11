@@ -149,6 +149,7 @@
 733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
 740 | Delete and Earn | Medium | [Solution](leetcode/740.%20Delete%20and%20Earn)
 743 | Network Delay Time | Medium | [Solution](leetcode/743.%20Network%20Delay%20Time)
+745 | Prefix and Suffix Search | Hard | [Solution](leetcode/745.%20Prefix%20and%20Suffix%20Search)
 774 | Minimize Max Distance to Gas Station | Hard | [Solution](leetcode/774.%20Minimize%20Max%20Distance%20to%20Gas%20Station)
 783 | Minimum Distance Between BST Nodes | Easy | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
