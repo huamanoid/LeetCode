@@ -94,6 +94,7 @@
 304 | Range Sum Query 2D - Immutable | Medium | [Solution](leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
 312 | Burst Balloons | Hard | [Solution](leetcode/312.%20Burst%20Balloons)
 322 | Coin Change | Medium | [Solution](leetcode/322.%20Coin%20Change)
+336 | Palindrome Pairs | Hard | [Solution](leetcode/336.%20Palindrome%20Pairs)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 340 | Longest Substring with At Most K Distinct Characters | Medium | [Solution](leetcode/340·%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)
