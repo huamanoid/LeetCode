@@ -17,6 +17,7 @@
 44 | Wildcard Matching | Hard | [Solution](leetcode/44.%20Wildcard%20Matching)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
+49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
 50 | Pow(x, n) | Medium | [Solution](leetcode/50.%20Pow_x,_n)
 51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
 52 | N-Queens II | Hard | [Solution](leetcode/52.%20N-Queens%20II)
