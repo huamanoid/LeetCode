@@ -106,6 +106,7 @@
 410 | Split Array Largest Sum | Hard | [Solution](leetcode/410.%20Split%20Array%20Largest%20Sum)
 416 | Partition Equal Subset Sum | Medium | [Solution](leetcode/416.%20Partition%20Equal%20Subset%20Sum)
 421 | Maximum XOR of Two Numbers in an Array | Medium | [Solution](leetcode/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
+425 :star: | Word Squares | Hard | [Solution](leetcode/425.%20Word%20Squares)
 437 | Path Sum III | Medium | [Solution](leetcode/437.%20Path%20Sum%20III)
 438 | Find All Anagrams in a String | Medium | [Solution](leetcode/438.%20Find%20All%20Anagrams%20in%20a%20String)
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
