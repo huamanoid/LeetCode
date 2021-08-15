@@ -4,6 +4,7 @@
 ---|---|---|---
 3 | Longest Substring Without Repeating Characters | Medium | [Solution](leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 4 | Median of Two Sorted Arrays | Hard | [Solution](leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
+5 | Longest Palindromic Substring | Medium | [Solution](leetcode/5.%20Longest%20Palindromic%20Substring)
 10 | Regular Expression Matching | Hard | [Solution](leetcode/10.%20Regular%20Expression%20Matching)
 17 | Letter Combinations of a Phone Number | Medium | [Solution](leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 20 | Valid Parentheses | Easy | [Solution](leetcode/20.%20Valid%20Parentheses)
