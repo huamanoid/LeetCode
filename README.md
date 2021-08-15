@@ -159,6 +159,7 @@
 758:star: | Bold Words in String | Medium | [Solution](leetcode/758.%20Bold%20Words%20in%20String)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 774:star: | Minimize Max Distance to Gas Station | Hard | [Solution](leetcode/774.%20Minimize%20Max%20Distance%20to%20Gas%20Station)
+775 | Global and Local Inversions | Medium | [Solution](leetcode/775.%20Global%20and%20Local%20Inversions)
 783 | Minimum Distance Between BST Nodes | Easy | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
 784 | Letter Case Permutation | Medium | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 785 | Is Graph Bipartite | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite)
