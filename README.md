@@ -89,6 +89,7 @@
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 239 | Sliding Window Maximum | Hard | [Solution](leetcode/239.%20Sliding%20Window%20Maximum)
+256 | Paint House | Medium | [Solution](leetcode/256.%20Paint%20House)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
 276:star: | Paint Fence | Medium | [Solution](leetcode/276.%20Paint%20Fence)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
