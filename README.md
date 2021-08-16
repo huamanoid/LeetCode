@@ -98,6 +98,7 @@
 297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
 301 | Remove Invalid Parentheses | Hard | [Solution](leetcode/301.%20Remove%20Invalid%20Parentheses)
+303 | Range Sum Query - Immutable | Easy | [Solution](leetcode/303.%20Range%20Sum%20Query%20-%20Immutable)
 304 | Range Sum Query 2D - Immutable | Medium | [Solution](leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
 312 | Burst Balloons | Hard | [Solution](leetcode/312.%20Burst%20Balloons)
 322 | Coin Change | Medium | [Solution](leetcode/322.%20Coin%20Change)
