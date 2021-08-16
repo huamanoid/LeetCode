@@ -34,6 +34,7 @@
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
 85 | Maximal Rectangle | Hard | [Solution](leetcode/85.%20Maximal%20Rectangle)
+89 | Gray Code | Medium | [Solution](leetcode/89.%20Gray%20Code)
 90 | Subsets II |  Medium | [Solution](leetcode/90.%20Subsets%20II)
 91 | Decode Ways | Medium | [Solution](leetcode/91.%20Decode%20Ways)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
