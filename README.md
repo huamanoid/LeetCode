@@ -238,6 +238,7 @@
 1376 | Time Needed to Inform All Employees | Medium | [Solution](leetcode/1376.%20Time%20Needed%20to%20Inform%20All%20Employees)
 1380 | Lucky Numbers in a Matrix | Easy | [Solution](leetcode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
+1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [Solution](leetcode/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 1406 | Stone Game III | Hard | [Solution](leetcode/1406.%20Stone%20Game%20III)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [Solution](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)
