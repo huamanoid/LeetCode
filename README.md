@@ -165,6 +165,7 @@
 743 | Network Delay Time | Medium | [Solution](leetcode/743.%20Network%20Delay%20Time)
 745 | Prefix and Suffix Search | Hard | [Solution](leetcode/745.%20Prefix%20and%20Suffix%20Search)
 758:star: | Bold Words in String | Medium | [Solution](leetcode/758.%20Bold%20Words%20in%20String)
+767 | Reorganize String | Medium | [Solution](leetcode/767.%20Reorganize%20String)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 773 | Sliding Puzzle | Hard | [Solution](leetcode/773.%20Sliding%20Puzzle)
 774:star: | Minimize Max Distance to Gas Station | Hard | [Solution](leetcode/774.%20Minimize%20Max%20Distance%20to%20Gas%20Station)
