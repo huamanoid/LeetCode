@@ -262,6 +262,7 @@
 1584 | Min Cost to Connect All Points | Medium | [Solution](leetcode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1610 | Maximum Number of Visible Points | Hard | [Solution](leetcode/1610.%20Maximum%20Number%20of%20Visible%20Points)
+1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
