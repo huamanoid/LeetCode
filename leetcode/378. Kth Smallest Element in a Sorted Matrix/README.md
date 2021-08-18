@@ -65,3 +65,70 @@ public:
     }
 };
 ```
+
+## Solution 2. Heap
+
+```cpp
+// OJ: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+// Author: A M A N
+// Time : O(KlogN)
+// Space: O(N)
+class Solution {
+    typedef tuple<int, int, int> item;
+public:
+    int kthSmallest(vector<vector<int>>& A, int k) {
+        int n = A.size();
+        int dirs[2][2] = {{0,1},{1,0}}; // down, right only
+        vector<vector<bool>>seen(n, vector<bool>(n, false));
+        priority_queue<item, vector<item>, greater<>> pq; // min heap
+        pq.push({A[0][0], 0, 0});
+        seen[0][0] = true;
+        while(--k){ // popping out k-1 smallest elements starting from origin
+            auto [val, x, y] = pq.top(); pq.pop();
+            for(auto&[dx, dy]: dirs){
+                int X = x + dx;
+                int Y = y + dy;
+                if(X<0 or X>=n or Y<0 or Y>=n or seen[X][Y]) continue;
+                seen[X][Y] = true;
+                pq.push({A[X][Y], X, Y});
+            }
+        }
+        return get<0>(pq.top()); // k th smallest element remains at the top
+    }
+};
+```
+
+## Solution 3. Binary Search
+
+```cpp
+// OJ: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+// Author: A M A N
+// Time : O(Nlog(max(matrix)))
+// Space: O(1)
+class Solution {
+public:
+    int rank(vector<vector<int>>&matrix, int num){
+        int n = matrix.size();
+        int j = n-1, cnt=0;
+        // if matrix[i][j] > num then matrix[i+1][j] will also be greater than num 
+        // because matrix is sorted wrt to column as well
+        for(int i=0; i < n; i++){
+            while(j>=0 and matrix[i][j] > num) j--;
+            cnt+= j + 1; // num is greater than or equal to j+1 elements in this row
+        }
+        return cnt;
+    }
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        int n = matrix.size();
+        int L = matrix[0][0], R = matrix[n-1][n-1];
+        while(L<R){
+            int M = L + (R-L)/2;
+            if(rank(matrix, M) < k) // rank returns the number of values less than M 
+                L = M+1;
+            else
+                R = M;
+        }
+        return L;
+    }
+};
+```
