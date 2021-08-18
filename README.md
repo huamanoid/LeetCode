@@ -99,6 +99,7 @@
 276:star: | Paint Fence | Medium | [Solution](leetcode/276.%20Paint%20Fence)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
 297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
+298 | Binary Tree Longest Consecutive Sequence | Medium | [Solution](leetcode/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
 301 | Remove Invalid Parentheses | Hard | [Solution](leetcode/301.%20Remove%20Invalid%20Parentheses)
 303 | Range Sum Query - Immutable | Easy | [Solution](leetcode/303.%20Range%20Sum%20Query%20-%20Immutable)
