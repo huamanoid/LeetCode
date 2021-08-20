@@ -134,6 +134,7 @@
 526 | Beautiful Arrangement | Medium | [Solution](leetcode/526.%20Beautiful%20Arrangement)
 530 | Minimum Absolute Difference in BST | Easy | [Solution](leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST)
 543| Diameter of Binary Tree | Easy| [Solution](leetcode/543.%20Diameter%20of%20Binary%20Tree)
+545:star: | Boundary of Binary Tree | Medium | [Solution](leetcode/545.%20Boundary%20of%20Binary%20Tree)
 547 | Number of Provinces | Medium | [Solution](leetcode/547.%20Number%20of%20Provinces)
 549 | Binary Tree Longest Consecutive Sequence II | Medium | [Solution](leetcode/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II)
 554 | Brick Wall | Medium | [Solution](leetcode/554.%20Brick%20Wall)
