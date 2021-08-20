@@ -43,11 +43,6 @@
 ## Solution 1. Backtracking
 
 ```cpp
-// OJ: https://leetcode.com/problems/sudoku-solver/
-// Author: A M A N
-// Time: O()
-// Space: O()
-};
 class Solution {
 public:
     bool isEmpty(vector<vector<char>>A, int& x, int& y){
@@ -60,6 +55,79 @@ public:
             }
     return false;
 }
+
+    bool isValidRow(vector<vector<char>>&A, int x, char num){
+        for(int i=0;i<9;i++)
+            if(A[x][i]==num)
+                return false;
+        return true;
+    }
+
+    bool isValidCol(vector<vector<char>>&A, int y, char num){
+        for(int i=0;i<9;i++)
+            if(A[i][y]==num)
+                return false;
+        return true;
+    }
+
+    bool isValidSquare(vector<vector<char>>&A, int x, int y, char num){
+        int row = x/3;
+        int col = y/3;
+
+        for(int i=3*row;i<3*row+3;i++)
+            for(int j=3*col;j<3*col+3;j++)
+                if(A[i][j]==num)
+                    return false;
+        return true;
+    }
+
+    bool isValid(vector<vector<char>>&A, int x, int y, char num){
+        if(isValidRow(A, x, num) and isValidCol(A, y, num) and isValidSquare(A, x, y, num))
+            return true;
+        return false;
+    }
+
+    bool solve(vector<vector<char>>& A){
+        int x,y;
+        if(!isEmpty(A, x, y))
+            return true;
+
+        for(char num='1';num<='9';num++){
+            if(isValid(A, x, y, num)){
+                A[x][y] = num;
+                if(solve(A))
+                    return true;
+                A[x][y] = '.';
+            }
+        } 
+        // if non of the numbers are valid for the current empty position
+        // we return false and backtrack to where we started going wrong
+        return false;
+    }
+    
+    void solveSudoku(vector<vector<char>>& board) {
+        solve(board);
+        return;
+    }
+};
+```
+Slightly different
+
+```cpp
+// OJ: https://leetcode.com/problems/sudoku-solver/
+// Author: A M A N
+// Time : O()
+// Space: O()
+                    }
+class Solution {
+public:
+    bool isSolved(vector<vector<char>>&A){
+        for(int i=0; i<A.size(); i++)
+            for(int j=0; j<A[0].size(); j++)
+                if(A[i][j]=='.')
+                    return false;
+        return true;
+    }
     bool isValidRow(vector<vector<char>>&A, int x, char num){
         for(int i=0;i<9;i++)
             if(A[x][i]==num)
@@ -87,9 +155,31 @@ public:
         return false;
     }
     bool solve(vector<vector<char>>& A){
-        int x,y;
-        if(!isEmpty(A, x, y))
+        if(isSolved(A))
             return true;
-        for(int i=1;i<=9;i++){
-            char num = (i+'0');
+        for(int i=0; i<9; i++){
+            for(int j=0; j<9; j++){
+                if(A[i][j]=='.'){
+                    for(char num='1';num<='9';num++){
+                        if(isValid(A, i, j, num)){
+                            A[i][j] = num;
+                            if(solve(A))
+                                return true;
+                            A[i][j] = '.';
+                        }
+                    }
+                } // because it might happen that certain sequence of filling of numbers lead
+                // to a future point where non of the numbers in [1,9] is valid for certain empty location
+                // in that case we return false, instead of traversing further skipping a blank space
+                if(A[i][j]=='.')
+                    return false;
+            }
+        }
+        return false;
+    }
+    void solveSudoku(vector<vector<char>>& board) {
+        solve(board);
+        return;
+    }
+};
 ```
