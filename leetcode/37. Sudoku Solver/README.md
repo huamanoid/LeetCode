@@ -43,6 +43,10 @@
 ## Solution 1. Backtracking
 
 ```cpp
+// OJ: https://leetcode.com/problems/sudoku-solver/
+// Author: A M A N
+// Time : O(9^(81))
+// Space: O(1)
 class Solution {
 public:
     bool isEmpty(vector<vector<char>>A, int& x, int& y){
@@ -116,9 +120,8 @@ Slightly different
 ```cpp
 // OJ: https://leetcode.com/problems/sudoku-solver/
 // Author: A M A N
-// Time : O()
-// Space: O()
-                    }
+// Time : O(9^(81))
+// Space: O(1)
 class Solution {
 public:
     bool isSolved(vector<vector<char>>&A){
