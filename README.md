@@ -96,6 +96,7 @@
 256:star: | Paint House | Medium | [Solution](leetcode/256.%20Paint%20House)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
+264 | Ugly Number II | Medium | [Solution](leetcode/264.%20Ugly%20Number%20II)
 265:star: | Paint House II | Hard | [Solution](leetcode/265.%20Paint%20House%20II)
 276:star: | Paint Fence | Medium | [Solution](leetcode/276.%20Paint%20Fence)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
