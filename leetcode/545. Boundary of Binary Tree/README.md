@@ -100,7 +100,7 @@ public:
     vector<int> ans;
     vector<int> boundaryOfBinaryTree(TreeNode* root) {
         if(!root) return {};
-        if(!root->left and !root->right) return {root->val};
+        if(!root->left and !root->right) return {root->val};// if the root itself is the leaf, it will be pushed again through dfsLeaves so just return it right away
         ans.push_back(root->val);
         dfsLeft(root->left);
         dfsLeaves(root);
