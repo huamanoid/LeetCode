@@ -64,7 +64,7 @@ Window position                Max
 * [Paint House II (Hard)](https://leetcode.com/problems/paint-house-ii/)
 * [Jump Game VI (Medium)](https://leetcode.com/problems/jump-game-vi/)
 
-## Solution 1. Sliding Window
+## Solution 1. Sliding Window using set
 
 ```cpp
 // OJ: https://leetcode.com/problems/sliding-window-maximum/
@@ -93,7 +93,7 @@ public:
 };
 ```
 
-using monotonically decreasing queue/list
+using monotonically decreasing queue/list to erase the first element in O(1) time.
 
 ```cpp
 // OJ: https://leetcode.com/problems/sliding-window-maximum/
@@ -118,6 +118,35 @@ public:
                 if(list.front()==nums[i]) // first element of the window will be at the front OR might have been removed by an afterwards greater element 
                     list.pop_front();
                 i++, j++; // slide the window
+            }
+        }
+        return ans;
+    }
+};
+```
+
+## Solution 2. Using Max heap
+
+```cpp
+// OJ: https://leetcode.com/problems/sliding-window-maximum/
+// Author: A M A N
+// Time : O(NKlogK)
+// Space: O(K)
+class Solution {
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        vector<int> ans;
+        priority_queue<pair<int, int>> pq; 
+        int i=0, j=0;
+        while(j<nums.size()){
+            pq.push({nums[j], j});
+            int window = j-i+1;
+            if(window<k)
+                j++;
+            else if(window==k){
+                while(pq.size() and pq.top().second < i) pq.pop();
+                ans.push_back(pq.top().first);
+                i++, j++;
             }
         }
         return ans;
