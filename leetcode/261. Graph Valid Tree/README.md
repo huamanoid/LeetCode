@@ -139,3 +139,38 @@ public:
     }
 };
 ```
+
+## Solution 3. BFS
+
+```cpp
+// OJ: https://leetcode.com/problems/graph-valid-tree/
+// Author: A M A N
+// Time : O(N)
+// Space: O(N)
+class Solution {
+public:
+    bool validTree(int n, vector<vector<int>>& edges) {
+        if(edges.size()!=n-1)return false; 
+        vector<vector<int>> adj(n);
+        for(auto e: edges){
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+        }
+        vector<bool>vis(n, false);
+        queue<pair<int, int>> q;
+        q.push({0, -1});
+        vis[0] = 1;
+        while(!q.empty()){
+            auto [u, pu] = q.front(); q.pop();
+            for(auto v: adj[u]){
+                if(v==pu)continue;
+                if(vis[v])return false; // cycle detected
+                vis[v] = 1; 
+                q.push({v, u});
+            }
+        }
+        int visitedNodes = accumulate(vis.begin(), vis.end(), 0); 
+        return visitedNodes==n; // to take care of disconnectedness, as we're visitig only the set which can be reached from 0
+    }
+};
+```
