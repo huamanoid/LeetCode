@@ -95,6 +95,7 @@
 253 | Meeting Rooms II | Medium | [Solution](leetcode/253.%20Meeting%20Rooms%20II)
 256:star: | Paint House | Medium | [Solution](leetcode/256.%20Paint%20House)
 257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
+261:star: | Graph Valid Tree | Medium | [Solution](leetcode/261.%20Graph%20Valid%20Tree)
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
 264 | Ugly Number II | Medium | [Solution](leetcode/264.%20Ugly%20Number%20II)
 265:star: | Paint House II | Hard | [Solution](leetcode/265.%20Paint%20House%20II)
