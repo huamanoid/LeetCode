@@ -191,6 +191,7 @@
 800 | Similar RGB Color | Easy | [Solution](leetcode/800.%20Similar%20RGB%20Color)
 801 | Minimum Swaps To Make Sequences Increasing | Hard | [Solution](leetcode/801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing)
 802 | Find Eventual Safe States | Medium | [Solution](leetcode/802.%20Find%20Eventual%20Safe%20States)
+812 | Largest Triangle Area | Easy | [Solution](leetcode/812.%20Largest%20Triangle%20Area)
 814 | Binary Tree Pruning | Medium | [Solution](leetcode/814.%20Binary%20Tree%20Pruning)
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 827 | Making A Large Island | Hard | [Solution](leetcode/827.%20Making%20A%20Large%20Island)
