@@ -66,7 +66,6 @@ public:
     bool judgeSquareSum(int c) {
         for(int64_t i=0; i*i<=c; i++){
             if(isSquare(c-i*i)){
-                cout<<i*i<<endl;
                 return true;
             }
         }
