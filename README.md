@@ -283,6 +283,7 @@
 1547 | Minimum Cost to Cut a Stick | Hard | [Solution](leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
 1573 | Number of Ways to Split a String | Medium | [Solution](leetcode/1573.%20Number%20of%20Ways%20to%20Split%20a%20String)
+1574 | Shortest Subarray to be Removed to Make Array Sorted | Medium | [Solution](leetcode/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted)
 1575 | Count All Possible Routes | Hard | [Solution](leetcode/1575.%20Count%20All%20Possible%20Routes)
 1584 | Min Cost to Connect All Points | Medium | [Solution](leetcode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
