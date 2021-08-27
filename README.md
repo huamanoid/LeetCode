@@ -251,7 +251,9 @@
 1268 | Search Suggestions System | Medium | [Solution](leetcode/1268.%20Search%20Suggestions%20System)
 1283 | Find the Smallest Divisor Given a Threshold | Medium | [Solution](leetcode/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)
 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
-1310 | XOR Queries of a Subarray | Medium | [Solution](leetcode/1310.%20XOR%20Queries%20of%20a%20Subarray)
+1310 | XOR Queries of a Subarray | Medium | [Solution](leetcode/1310.%20XOR%20Queries%20of%20a%
+20Subarray)
+1311 | Get Watched Videos by Your Friends | Medium | [Solution](leetcode/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends)
 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | [Solution](leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [Solution](leetcode/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
