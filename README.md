@@ -250,6 +250,7 @@
 1267 | Count Servers that Communicate | Medium | [Solution](leetcode/1267.%20Count%20Servers%20that%20Communicate)
 1268 | Search Suggestions System | Medium | [Solution](leetcode/1268.%20Search%20Suggestions%20System)
 1283 | Find the Smallest Divisor Given a Threshold | Medium | [Solution](leetcode/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)
+1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | [Solution](leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [Solution](leetcode/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
