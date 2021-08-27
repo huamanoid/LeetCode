@@ -197,6 +197,7 @@
 802 | Find Eventual Safe States | Medium | [Solution](leetcode/802.%20Find%20Eventual%20Safe%20States)
 812 | Largest Triangle Area | Easy | [Solution](leetcode/812.%20Largest%20Triangle%20Area)
 814 | Binary Tree Pruning | Medium | [Solution](leetcode/814.%20Binary%20Tree%20Pruning)
+813 | Largest Sum of Averages | Medium | [Solution](leetcode/813.%20Largest%20Sum%20of%20Averages)
 815 | Bus Routes | Hard | [Solution](leetcode/815.%20Bus%20Routes)
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 827 | Making A Large Island | Hard | [Solution](leetcode/827.%20Making%20A%20Large%20Island)
