@@ -248,6 +248,7 @@
 1192 | Critical Connections in a Network | Hard | [Solution](leetcode/1192.%20Critical%20Connections%20in%20a%20Network)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
 1231:star: | Divide Chocolate | Hard | [Solution](leetcode/1231.%20Divide%20Chocolate)
+1235 | Maximum Profit in Job Scheduling | Hard | [Solution](leetcode/1235.%20Maximum%20Profit%20in%20Job%20Scheduling)
 1277 | Count Square Submatrices with All Ones | Medium | [Solution](leetcode/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)
 1248 | Count Number of Nice Subarrays | Medium | [Solution](leetcode/1248.%20Count%20Number%20of%20Nice%20Subarrays)
 1254 | Number of Closed Islands | Medium | [Solution](leetcode/1254.%20Number%20of%20Closed%20Islands)
