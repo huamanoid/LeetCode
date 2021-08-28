@@ -81,3 +81,39 @@ public:
     }
 };
 ```
+
+## Solution 2. DFS + Memoization
+
+```cpp
+// OJ: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+// Author: A M A N
+// Time : O(N^2)
+// Space: O(N^2)
+class Solution {
+    static const int N = 101;
+    int dp[N][N];
+public:
+    int solve(vector<vector<pair<int, int>>> &adj, int start, int end, int k){
+        // Base Cases
+        if(start==end)
+            return 0;
+        if(k==-1) // we can take atmost k+1 flights
+            return 1e9;
+        if(dp[start][k]!=-1)
+            return dp[start][k];
+        int ans = 1e9;        
+        for(auto [next, cost]: adj[start]){
+            ans = min(ans, cost + solve(adj, next, end, k-1));
+        }
+        return dp[start][k] = ans;
+    }
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+        memset(dp, -1, sizeof dp);       
+        vector<vector<pair<int, int>>>adj(n);
+        for(auto f: flights)
+            adj[f[0]].push_back({f[1], f[2]});
+        int minCost = solve(adj, src, dst, k);
+        return minCost>=1e9?-1: minCost;
+    }
+};
+```
