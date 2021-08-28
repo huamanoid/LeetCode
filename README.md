@@ -57,6 +57,7 @@
 121 | Best Time to Buy and Sell Stock | Easy | [Solution](leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 122 | Best Time to Buy and Sell Stock II | Easy | [Solution](leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 123 | Best Time to Buy and Sell Stock III | Hard | [Solution](leetcode/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
+124 | Binary Tree Maximum Path Sum | Hard | [Solution](leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 126 | Word Ladder II | Hard | [Solution](leetcode/126.%20Word%20Ladder%20II)
 127 | Word Ladder | Hard | [Solution](leetcode/127.%20Word%20Ladder)
 130 | Surrounded Regions | Medium | [Solution](leetcode/130.%20Surrounded%20Regions)
