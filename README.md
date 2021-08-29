@@ -214,6 +214,7 @@
 851 | Loud and Rich | Medium | [Solution](leetcode/851.%20Loud%20and%20Rich)
 852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 863 | All Nodes Distance K in Binary Tree | Medium | [Solution](leetcode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
+871 | Minimum Number of Refueling Stops | Hard | [Solution](leetcode/871.%20Minimum%20Number%20of%20Refueling%20Stops)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
 875 | Koko Eating Bananas | Medium | [Solution](leetcode/875.%20Koko%20Eating%20Bananas)
 877 | Stone Game | Medium | [Solution](leetcode/877.%20Stone%20Game)
