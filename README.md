@@ -286,6 +286,7 @@
 1462 | Course Schedule IV | Medium | [Solution](leetcode/1462.%20Course%20Schedule%20IV)
 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard | [Solution](leetcode/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree)
 1493 | Longest Subarray of 1's After Deleting One Element | Medium | [Solution](leetcode/1493.%20Longest%20Subarray%20of%201s%20After%20Deleting%20One%20Element)
+1496 | Path Crossing | Easy | [Solution](leetcode/1496.%20Path%20Crossing)
 1539 | Kth Missing Positive Number | Easy | [Solution](leetcode/1539.%20Kth%20Missing%20Positive%20Number)
 1547 | Minimum Cost to Cut a Stick | Hard | [Solution](leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
