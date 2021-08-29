@@ -268,6 +268,7 @@
 1311 | Get Watched Videos by Your Friends | Medium | [Solution](leetcode/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends)
 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | [Solution](leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome)
 1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
+1326 | Minimum Number of Taps to Open to Water a Garden | Hard | [Solution](leetcode/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden)
 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [Solution](leetcode/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
 1335 | Minimum Difficulty of a Job Schedule | Hard | [Solution](leetcode/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule)
 1339 | Maximum Product of Splitted Binary Tree | Medium | [Solution](leetcode/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)l
