@@ -112,6 +112,7 @@
 304 | Range Sum Query 2D - Immutable | Medium | [Solution](leetcode/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
 312 | Burst Balloons | Hard | [Solution](leetcode/312.%20Burst%20Balloons)
 322 | Coin Change | Medium | [Solution](leetcode/322.%20Coin%20Change)
+330 | Patching Array | Hard | [Solution](leetcode/330.%20Patching%20Array)
 331 | Verify Preorder Serialization of a Binary Tree | Medium | [Solution](leetcode/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)
 336 | Palindrome Pairs | Hard | [Solution](leetcode/336.%20Palindrome%20Pairs)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
