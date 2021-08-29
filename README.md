@@ -16,6 +16,7 @@
 40 |  Combination Sum II | Medium| [Solution](leetcode/40.%20Combination%20Sum%20II)
 42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
 44 | Wildcard Matching | Hard | [Solution](leetcode/44.%20Wildcard%20Matching)
+45 | Jump Game II | Medium | [Solution](leetcode/45.%20Jump%20Game%20II)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
