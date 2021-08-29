@@ -244,6 +244,7 @@
 1011 | Capacity To Ship Packages Within D Days | Medium | [Solution](leetcode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)
 1020 | Number of Enclaves | Medium | [Solution](leetcode/1020.%20Number%20of%20Enclaves)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
+1024 | Video Stitching | Medium | [Solution](leetcode/1024.%20Video%20Stitching)
 1025 | Divisor Game | Easy | [Solution](leetcode/1025.%20Divisor%20Game)
 1027 | Longest Arithmetic Subsequence | Medium | [Solution](leetcode/1027.%20Longest%20Arithmetic%20Subsequence)
 1049 | Last Stone Weight II | Medium | [Solution](leetcode/1049.%20Last%20Stone%20Weight%20II)
