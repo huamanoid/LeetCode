@@ -287,6 +287,7 @@
 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard | [Solution](leetcode/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree)
 1493 | Longest Subarray of 1's After Deleting One Element | Medium | [Solution](leetcode/1493.%20Longest%20Subarray%20of%201s%20After%20Deleting%20One%20Element)
 1496 | Path Crossing | Easy | [Solution](leetcode/1496.%20Path%20Crossing)
+1497 | Check If Array Pairs Are Divisible by k | Medium | [Solution](leetcode/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k)
 1498 | Number of Subsequences That Satisfy the Given Sum Condition | Medium | [Solution](leetcode/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition)
 1539 | Kth Missing Positive Number | Easy | [Solution](leetcode/1539.%20Kth%20Missing%20Positive%20Number)
 1547 | Minimum Cost to Cut a Stick | Hard | [Solution](leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick)
