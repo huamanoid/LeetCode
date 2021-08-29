@@ -282,6 +282,7 @@
 1346 | Check If N and Its Double Exist | Easy | [Solution](leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)
 1376 | Time Needed to Inform All Employees | Medium | [Solution](leetcode/1376.%20Time%20Needed%20to%20Inform%20All%20Employees)
 1380 | Lucky Numbers in a Matrix | Easy | [Solution](leetcode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)
+1382 | Balance a Binary Search Tree | Medium | [Solution](leetcode/1382.%20Balance%20a%20Binary%20Search%20Tree)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [Solution](leetcode/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 1405 | Longest Happy String | Medium | [Solution](leetcode/1405.%20Longest%20Happy%20String)
