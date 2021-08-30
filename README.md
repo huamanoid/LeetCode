@@ -162,6 +162,7 @@
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
 589 | N-ary Tree Preorder Traversal | Easy | [Solution](leetcode/589.%20N-ary%20Tree%20Preorder%20Traversal)
 590 | N-ary Tree Postorder Traversal | Easy | [Solution](leetcode/590.%20N-ary%20Tree%20Postorder%20Traversal)
+598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
 616:star: | Add Bold Tag in String | Medium | [Solution](leetcode/616.%20Add%20Bold%20Tag%20in%20String)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
