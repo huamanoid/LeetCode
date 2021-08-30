@@ -309,6 +309,7 @@
 1610 | Maximum Number of Visible Points | Hard | [Solution](leetcode/1610.%20Maximum%20Number%20of%20Visible%20Points)
 1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
+1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | [Solution](leetcode/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1673 | Find the Most Competitive Subsequence | Medium | [Solution](leetcode/1673.%20Find%20the%20Most%20Competitive%20Subsequence)
 1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
