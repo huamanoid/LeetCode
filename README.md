@@ -167,6 +167,7 @@
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
 616:star: | Add Bold Tag in String | Medium | [Solution](leetcode/616.%20Add%20Bold%20Tag%20in%20String)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
+623 | Add One Row to Tree | Medium | [Solution](leetcode/623.%20Add%20One%20Row%20to%20Tree)
 624 | Maximum Distance in Arrays | Medium | [Solution](leetcode/624.%20Maximum%20Distance%20in%20Arrays)
 633 | Sum of Square Numbers | Medium | [Solution](leetcode/633.%20Sum%20of%20Square%20Numbers)
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
