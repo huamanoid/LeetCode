@@ -169,6 +169,7 @@
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 623 | Add One Row to Tree | Medium | [Solution](leetcode/623.%20Add%20One%20Row%20to%20Tree)
 624 | Maximum Distance in Arrays | Medium | [Solution](leetcode/624.%20Maximum%20Distance%20in%20Arrays)
+625 | Minimum Factorization | Medium | [Solution](leetcode/625.%20Minimum%20Factorization)
 633 | Sum of Square Numbers | Medium | [Solution](leetcode/633.%20Sum%20of%20Square%20Numbers)
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
 638 | Shopping Offers | Medium | [Solution](leetcode/638.%20Shopping%20Offers)
