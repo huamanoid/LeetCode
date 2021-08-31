@@ -56,6 +56,21 @@
 
 ## Solution 1.
 
+```
+1,2,3,4,5,6,7,8,9 =(Rotate)=> 6,7,8,9,1,2,3,4,5
+```
+It's not just two sorted arrays stitched at a point.
+```
+      9
+    8
+  7
+6               
+                5  
+              4
+            3
+          2
+        1
+```
 find if the mid is the min element if not move to the unsorted part (left or right)
 
 ```cpp
