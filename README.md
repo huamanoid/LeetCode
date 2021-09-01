@@ -264,6 +264,7 @@
 1140 | Stone Game II | Medium | [Solution](leetcode/1140.%20Stone%20Game%20II)
 1155 | Number of Dice Rolls With Target Sum | Medium | [Solution](leetcode/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum)
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
+1168 | Optimize Water Distribution in a Village | Hard | [Solution](leetcode/1168.%20Optimize%20Water%20Distribution%20in%20a%20Village)
 1192 | Critical Connections in a Network | Hard | [Solution](leetcode/1192.%20Critical%20Connections%20in%20a%20Network)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
 1231:star: | Divide Chocolate | Hard | [Solution](leetcode/1231.%20Divide%20Chocolate)
