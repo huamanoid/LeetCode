@@ -160,6 +160,7 @@
 559 | Maximum Depth of N-ary Tree | Easy | [Solution](leetcode/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 560 | Subarray Sum Equals K | Medium | [Solution](leetcode/560.%20Subarray%20Sum%20Equals%20K)
 563 | Binary Tree Tilt | Easy | [Solution](leetcode/563.%20Binary%20Tree%20Tilt)
+565 | Array Nesting | Medium | [Solution](leetcode/565.%20Array%20Nesting)
 567 | Permutation in String | Medium | [Solution](leetcode/567.%20Permutation%20in%20String)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
 589 | N-ary Tree Preorder Traversal | Easy | [Solution](leetcode/589.%20N-ary%20Tree%20Preorder%20Traversal)
