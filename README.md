@@ -125,6 +125,7 @@
 343 | Integer Break | Medium | [Solution](leetcode/343.%20Integer%20Break)
 347 | Top K Frequent Elements | Medium | [Solution](leetcode/347.%20Top%20K%20Frequent%20Elements)
 370:star:| Range Addition | Medium | [Solution](leetcode/370.%20Range%20Addition)
+376 | Wiggle Subsequence | Medium | [Solution](leetcode/376.%20Wiggle%20Subsequence)
 378 | Kth Smallest Element in a Sorted Matrix | Medium | [Solution](leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
 386 | Lexicographical Numbers | Medium | [Solution](leetcode/386.%20Lexicographical%20Numbers)
 394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
