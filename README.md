@@ -259,6 +259,7 @@
 1027 | Longest Arithmetic Subsequence | Medium | [Solution](leetcode/1027.%20Longest%20Arithmetic%20Subsequence)
 1049 | Last Stone Weight II | Medium | [Solution](leetcode/1049.%20Last%20Stone%20Weight%20II)
 1052 | Grumpy Bookstore Owner | Medium | [Solution](leetcode/1052.%20Grumpy%20Bookstore%20Owner)
+1120:star: | Maximum Average Subtree | Medium | [Solution](leetcode/1120.%20Maximum%20Average%20Subtree)
 1140 | Stone Game II | Medium | [Solution](leetcode/1140.%20Stone%20Game%20II)
 1155 | Number of Dice Rolls With Target Sum | Medium | [Solution](leetcode/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum)
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
