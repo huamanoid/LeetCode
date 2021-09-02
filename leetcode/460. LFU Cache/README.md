@@ -110,7 +110,7 @@ public:
             return;           
         }
 
-        if(data.size() >= N){
+        if(data.size() == N){
             int LFU_Key = *freqList[minFreq].rbegin();
             freqList[minFreq].pop_back(); // the last element is the LFU and LRU
             mp.erase(LFU_Key);
