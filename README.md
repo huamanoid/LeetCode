@@ -70,6 +70,7 @@
 140 | Word Break II | Hard | [Solution](leetcode/140.%20Word%20Break%20II)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
+146 | LRU Cache | Medium | [Solution](leetcode/146.%20LRU%20Cache)
 151 | Reverse Words in a String | Medium | [Solution](leetcode/151.%20Reverse%20Words%20in%20a%20String)
 152 | Maximum Product Subarray | Medium | [Solution](leetcode/152.%20Maximum%20Product%20Subarray)
 153 | Find Minimum in Rotated Sorted Array | Medium | [Solution](leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
