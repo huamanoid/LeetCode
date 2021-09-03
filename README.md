@@ -164,6 +164,7 @@
 565 | Array Nesting | Medium | [Solution](leetcode/565.%20Array%20Nesting)
 567 | Permutation in String | Medium | [Solution](leetcode/567.%20Permutation%20in%20String)
 572 | Subtree of Another Tree | Easy | [Solution](leetcode/572.%20Subtree%20of%20Another%20Tree)
+587 | Erect the Fence | Hard | [Solution](leetcode/587.%20Erect%20the%20Fence)
 589 | N-ary Tree Preorder Traversal | Easy | [Solution](leetcode/589.%20N-ary%20Tree%20Preorder%20Traversal)
 590 | N-ary Tree Postorder Traversal | Easy | [Solution](leetcode/590.%20N-ary%20Tree%20Postorder%20Traversal)
 598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
