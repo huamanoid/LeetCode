@@ -109,6 +109,7 @@
 276:star: | Paint Fence | Medium | [Solution](leetcode/276.%20Paint%20Fence)
 286:star: | Walls and Gates | Medium | [Solution](leetcode/286.%20Walls%20and%20Gates)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
+296:star: | Best Meeting Point | Hard | [Solution](leetcode/296.%20Best%20Meeting%20Point)
 297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 298 | Binary Tree Longest Consecutive Sequence | Medium | [Solution](leetcode/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
