@@ -109,6 +109,7 @@
 264 | Ugly Number II | Medium | [Solution](leetcode/264.%20Ugly%20Number%20II)
 265:star: | Paint House II | Hard | [Solution](leetcode/265.%20Paint%20House%20II)
 276:star: | Paint Fence | Medium | [Solution](leetcode/276.%20Paint%20Fence)
+279 | Perfect Squares | Medium | [Solution](leetcode/279.%20Perfect%20Squares)
 286:star: | Walls and Gates | Medium | [Solution](leetcode/286.%20Walls%20and%20Gates)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
 296:star: | Best Meeting Point | Hard | [Solution](leetcode/296.%20Best%20Meeting%20Point)
