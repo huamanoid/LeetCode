@@ -101,3 +101,37 @@ public:
     }
 };
 ```
+
+A little different approach.
+
+## Solution 2. Recursion + Memoization
+
+```cpp
+// OJ: https://leetcode.com/problems/longest-string-chain/solution/
+// Author: A M A N
+// Time : O(N*L^2)
+// Space: O(N)
+class Solution {
+public:
+    unordered_set<string> sett;
+    unordered_map<string, int> dp;
+    int solve(vector<string>&words, string s){             //O(N)
+        if(dp.find(s)!=dp.end())
+            return dp[s];
+        int ans = 1;
+        for(int i=0; i<s.size(); i++){                      //O(L)
+            string child = s.substr(0, i) + s.substr(i+1);  //O(L)
+            if(sett.count(child))
+                ans = max(ans, 1 + solve(words, child));
+        }
+        return dp[s] = ans;
+    }
+    int longestStrChain(vector<string>& words) {
+        for(string s: words)sett.insert(s);
+        int res = 1;
+        for(auto w: words)
+            res = max(res, solve(words, w));
+        return res;
+    }   
+};
+```
