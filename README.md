@@ -24,6 +24,7 @@
 51| N-Queens | Hard | [Solution](leetcode/51.%20N-Queens)
 52 | N-Queens II | Hard | [Solution](leetcode/52.%20N-Queens%20II)
 53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
+55 | Jump Game | Medium | [Solution](leetcode/55.%20Jump%20Game)
 56 | Merge Intervals | Medium | [Solution](leetcode/56.%20Merge%20Intervals)
 62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
