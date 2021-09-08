@@ -33,6 +33,7 @@
 72 | Edit Distance | Hard | [Solution](leetcode/72.%20Edit%20Distance)
 73 | Set Matrix Zeroes | Medium | [Solution](leetcode/73.%20Set%20Matrix%20Zeroes)
 74 | Search a 2D Matrix | Medium | [Solution](leetcode/74.%20Search%20a%202D%20Matrix)
+75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 76 | Minimum Window Substring | Hard | [Solution](leetcode/76.%20Minimum%20Window%20Substring)
 79| Word Search |Medium| [Solution](leetcode/79.%20Word%20Search)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
