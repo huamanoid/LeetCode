@@ -284,6 +284,7 @@
 1118 | Number of Days in a Month | Easy | [Solution](leetcode/1118.%20Number%20of%20Days%20in%20a%20Month)
 1119 | Remove Vowels from a String | Easy | [Solution](leetcode/1119.%20Remove%20Vowels%20from%20a%20String)
 1120:star: | Maximum Average Subtree | Medium | [Solution](leetcode/1120.%20Maximum%20Average%20Subtree)
+1121 | Divide Array Into Increasing Sequences | Hard | [Solution](leetcode/1121.%20Divide%20Array%20Into%20Increasing%20Sequences)
 1140 | Stone Game II | Medium | [Solution](leetcode/1140.%20Stone%20Game%20II)
 1155 | Number of Dice Rolls With Target Sum | Medium | [Solution](leetcode/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum)
 1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
