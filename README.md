@@ -282,6 +282,7 @@
 1049 | Last Stone Weight II | Medium | [Solution](leetcode/1049.%20Last%20Stone%20Weight%20II)
 1052 | Grumpy Bookstore Owner | Medium | [Solution](leetcode/1052.%20Grumpy%20Bookstore%20Owner)
 1118 | Number of Days in a Month | Easy | [Solution](leetcode/1118.%20Number%20of%20Days%20in%20a%20Month)
+1119 | Remove Vowels from a String | Easy | [Solution](leetcode/1119.%20Remove%20Vowels%20from%20a%20String)
 1120:star: | Maximum Average Subtree | Medium | [Solution](leetcode/1120.%20Maximum%20Average%20Subtree)
 1140 | Stone Game II | Medium | [Solution](leetcode/1140.%20Stone%20Game%20II)
 1155 | Number of Dice Rolls With Target Sum | Medium | [Solution](leetcode/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum)
