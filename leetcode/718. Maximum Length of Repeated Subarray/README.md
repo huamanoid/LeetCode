@@ -60,3 +60,41 @@ public:
     }
 };
 ```
+
+## Solution 2. Recursion + Memoization
+
+```cpp
+// OJ: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+// Author: A M A N
+// Time : O(N * M)
+// Space: O(N * M)
+class Solution {
+    int n, m;
+    vector<int>A, B;
+    int dp[1001][1001][2];
+public:
+    int solve(int i, int j, bool selected){
+        if(i>=n or j>=m) return 0;
+        if(dp[i][j][selected]!=-1) return dp[i][j][selected];
+        if(selected){
+            if(A[i]!=B[j])
+                return dp[i][j][selected] = 0;
+            else
+                return dp[i][j][selected] = 1 + solve(i+1, j+1, true);
+        }
+        int a = INT_MIN;
+        if(A[i]==B[j]){
+            a = 1 + solve(i+1, j+1, true);
+        }
+        int b = solve(i+1, j, false);
+        int c = solve(i, j+1, false);
+        return dp[i][j][selected] = max({a, b, c});
+    }
+    int findLength(vector<int>& nums1, vector<int>& nums2) {
+        A = nums1, B = nums2;
+        n = nums1.size(), m = nums2.size();
+        memset(dp, -1, sizeof dp);
+        return solve(0, 0, false);
+    }
+};       
+```
