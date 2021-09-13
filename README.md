@@ -369,6 +369,7 @@
 1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
 1745 | Palindrome Partitioning IV | Hard | [Solution](leetcode/1745.%20Palindrome%20Partitioning%20IV)
 1760 | Minimum Limit of Balls in a Bag | Medium | [Solution](leetcode/1760.%20Minimum%20Limit%20of%20Balls%20in%20a%20Bag)
+1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1791 | Find Center of Star Graph | Easy | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
 1796 | Second Largest Digit in a String | Easy | [Solution](leetcode/1796.%20Second%20Largest%20Digit%20in%20a%20String)
 1797 | Design Authentication Manager | Medium | [Solution](leetcode/1797.%20Design%20Authentication%20Manager)
