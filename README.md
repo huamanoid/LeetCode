@@ -366,6 +366,7 @@
 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | [Solution](leetcode/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1673 | Find the Most Competitive Subsequence | Medium | [Solution](leetcode/1673.%20Find%20the%20Most%20Competitive%20Subsequence)
+1676 | Lowest Common Ancestor of a Binary Tree IV | Medium | [Solution](leetcode/1676.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20IV)
 1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
 1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
