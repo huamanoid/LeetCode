@@ -363,6 +363,7 @@
 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | [Solution](leetcode/1644.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20II)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
 1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | [Solution](leetcode/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique)
+1650 | Lowest Common Ancestor of a Binary Tree III | Medium | [Solution](leetcode/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
 1654 | Minimum Jumps to Reach Home | Medium | [Solution](leetcode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)
 1673 | Find the Most Competitive Subsequence | Medium | [Solution](leetcode/1673.%20Find%20the%20Most%20Competitive%20Subsequence)
 1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
