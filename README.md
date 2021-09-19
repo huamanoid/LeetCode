@@ -147,6 +147,7 @@
 425:star: | Word Squares | Hard | [Solution](leetcode/425.%20Word%20Squares)
 437 | Path Sum III | Medium | [Solution](leetcode/437.%20Path%20Sum%20III)
 438 | Find All Anagrams in a String | Medium | [Solution](leetcode/438.%20Find%20All%20Anagrams%20in%20a%20String)
+443 | String Compression | Medium | [Solution](leetcode/443.%20String%20Compression)
 460 | LFU Cache | Hard | [Solution](leetcode/460.%20LFU%20Cache)
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
 474 | Ones and Zeroes | Medium | [Solution](leetcode/474.%20Ones%20and%20Zeroes)
