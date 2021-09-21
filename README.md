@@ -342,6 +342,7 @@
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1610 | Maximum Number of Visible Points | Hard | [Solution](leetcode/1610.%20Maximum%20Number%20of%20Visible%20Points)
 1624 | Largest Substring Between Two Equal Characters | Easy | [Solution](leetcode/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters)
+1625 | Lexicographically Smallest String After Applying Operations | Medium | [Solution](leetcode/1625.%20Lexicographically%20Smallest%20String%20After%20Applying%20Operations)
 1626 | Best Team With No Conflicts | Medium | [Solution](leetcode/1626.%20Best%20Team%20With%20No%20Conflicts)
 1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
 1646 | Get Maximum in Generated Array | Easy | [Solution](leetcode/1646.%20Get%20Maximum%20in%20Generated%20Array)
