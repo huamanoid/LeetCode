@@ -151,6 +151,7 @@
 474 | Ones and Zeroes | Medium | [Solution](leetcode/474.%20Ones%20and%20Zeroes)
 480 | Sliding Window Median | Hard | [Solution](leetcode/480.%20Sliding%20Window%20Median)
 485 | Max Consecutive Ones | Easy | [Solution](leetcode/485.%20Max%20Consecutive%20Ones)
+496 | Next Greater Element I | Easy | [Solution](leetcode/496.%20Next%20Greater%20Element%20I)
 501 | Find Mode in Binary Search Tree | Easy | [Solution](leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)
 509 | Fibonacci Number | Easy | [Solution](leetcode/509.%20Fibonacci%20Number)
 513 | Find Bottom Left Tree Value | Medium | [Solution](leetcode/513.%20Find%20Bottom%20Left%20Tree%20Value)
