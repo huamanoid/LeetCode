@@ -324,6 +324,7 @@
 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [Solution](leetcode/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 1405 | Longest Happy String | Medium | [Solution](leetcode/1405.%20Longest%20Happy%20String)
 1406 | Stone Game III | Hard | [Solution](leetcode/1406.%20Stone%20Game%20III)
+1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [Solution](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)
 1462 | Course Schedule IV | Medium | [Solution](leetcode/1462.%20Course%20Schedule%20IV)
