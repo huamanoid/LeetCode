@@ -326,6 +326,7 @@
 1406 | Stone Game III | Hard | [Solution](leetcode/1406.%20Stone%20Game%20III)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1432 | Max Difference You Can Get From Changing an Integer | Medium | [Solution](leetcode/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer)
+1433 | Check If a String Can Break Another String | Medium | [Solution](leetcode/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String)
 1448 | Count Good Nodes in Binary Tree |Medium| [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [Solution](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)
 1462 | Course Schedule IV | Medium | [Solution](leetcode/1462.%20Course%20Schedule%20IV)
