@@ -258,6 +258,7 @@
 926 | Flip String to Monotone Increasing | Medium | [Solution](leetcode/926.%20Flip%20String%20to%20Monotone%20Increasing)
 934 | Shortest Bridge | Medium | [Solution](leetcode/934.%20Shortest%20Bridge)
 935 | Knight Dialer | Medium | [Solution](leetcode/935.%20Knight%20Dialer)
+938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](leetcode/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 954 | Array of Doubled Pairs | Medium | [Solution](leetcode/954.%20Array%20of%20Doubled%20Pairs)
 957 | Prison Cells After N Days | Medium | [Solution](leetcode/957.%20Prison%20Cells%20After%20N%20Days)
