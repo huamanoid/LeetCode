@@ -209,6 +209,7 @@
 718 | Maximum Length of Repeated Subarray | Medium | [Solution](leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray)
 720 | Longest Word in Dictionary | Medium | [Solution](leetcode/720.%20Longest%20Word%20in%20Dictionary)
 721 | Accounts Merge | Medium | [Solution](leetcode/721.%20Accounts%20Merge)
+728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
 733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
 734 | Sentence Similarity | Easy | [Solution](leetcode/734.%20Sentence%20Similarity)
 735 | Asteroid Collision | Medium | [Solution](leetcode/735.%20Asteroid%20Collision)
