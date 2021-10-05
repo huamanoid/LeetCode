@@ -363,6 +363,7 @@
 1745 | Palindrome Partitioning IV | Hard | [Solution](leetcode/1745.%20Palindrome%20Partitioning%20IV)
 1760 | Minimum Limit of Balls in a Bag | Medium | [Solution](leetcode/1760.%20Minimum%20Limit%20of%20Balls%20in%20a%20Bag)
 1791 | Find Center of Star Graph | Easy | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
+1796 | Second Largest Digit in a String | Easy | [Solution](leetcode/1796.%20Second%20Largest%20Digit%20in%20a%20String)
 1797 | Design Authentication Manager | Medium | [Solution](leetcode/1797.%20Design%20Authentication%20Manager)
 1798 | Maximum Number of Consecutive Values You Can Make | Medium | [Solution](leetcode/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make)
 1849| Splitting a String Into Descending Consecutive Values | Medium | [Solution](leetcode/1849.%20Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values)
