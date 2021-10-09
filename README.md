@@ -220,6 +220,7 @@
 743 | Network Delay Time | Medium | [Solution](leetcode/743.%20Network%20Delay%20Time)
 745 | Prefix and Suffix Search | Hard | [Solution](leetcode/745.%20Prefix%20and%20Suffix%20Search)
 758:star: | Bold Words in String | Medium | [Solution](leetcode/758.%20Bold%20Words%20in%20String)
+763 | Partition Labels | Medium | [Solution](leetcode/763.%20Partition%20Labels)
 764 | Largest Plus Sign | Medium | [Solution](leetcode/764.%20Largest%20Plus%20Sign)
 767 | Reorganize String | Medium | [Solution](leetcode/767.%20Reorganize%20String)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
