@@ -348,6 +348,7 @@
 1496 | Path Crossing | Easy | [Solution](leetcode/1496.%20Path%20Crossing)
 1497 | Check If Array Pairs Are Divisible by k | Medium | [Solution](leetcode/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k)
 1498 | Number of Subsequences That Satisfy the Given Sum Condition | Medium | [Solution](leetcode/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition)
+1525 | Number of Good Ways to Split a String | Medium | [Solution](leetcode/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String)
 1539 | Kth Missing Positive Number | Easy | [Solution](leetcode/1539.%20Kth%20Missing%20Positive%20Number)
 1547 | Minimum Cost to Cut a Stick | Hard | [Solution](leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
