@@ -73,7 +73,7 @@
 134 | Gas Station | Medium | [Solution](leetcode/134.%20Gas%20Station)
 139 | Word Break | Medium | [Solution](leetcode/139.%20Word%20Break)
 140 | Word Break II | Hard | [Solution](leetcode/140.%20Word%20Break%20II)
-144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
+144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)1220. Count Vowels Permutation
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 146 | LRU Cache | Medium | [Solution](leetcode/146.%20LRU%20Cache)
 151 | Reverse Words in a String | Medium | [Solution](leetcode/151.%20Reverse%20Words%20in%20a%20String)
@@ -306,6 +306,7 @@
 1192 | Critical Connections in a Network | Hard | [Solution](leetcode/1192.%20Critical%20Connections%20in%20a%20Network)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
 1219 | Path with Maximum Gold | Medium | [Solution](leetcode/1219.%20Path%20with%20Maximum%20Gold)
+1220 | Count Vowels Permutation | Hard | [Solution](leetcode/1220.%20Count%20Vowels%20Permutation)
 1231:star: | Divide Chocolate | Hard | [Solution](leetcode/1231.%20Divide%20Chocolate)
 1235 | Maximum Profit in Job Scheduling | Hard | [Solution](leetcode/1235.%20Maximum%20Profit%20in%20Job%20Scheduling)
 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | [Solution](leetcode/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters)
