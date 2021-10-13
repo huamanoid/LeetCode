@@ -383,6 +383,7 @@
 1797 | Design Authentication Manager | Medium | [Solution](leetcode/1797.%20Design%20Authentication%20Manager)
 1798 | Maximum Number of Consecutive Values You Can Make | Medium | [Solution](leetcode/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make)
 1799 | Maximize Score After N Operations | Hard | [Solution](leetcode/1799.%20Maximize%20Score%20After%20N%20Operations)
+1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1823 | Find the Winner of the Circular Game | Medium | [Solution](leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution](leetcode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing)
 1849| Splitting a String Into Descending Consecutive Values | Medium | [Solution](leetcode/1849.%20Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values)
