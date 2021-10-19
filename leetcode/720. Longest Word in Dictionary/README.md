@@ -96,3 +96,36 @@ public:
     }
 };
 ```
+
+## Solution 2. Hashing
+
+```cpp
+// OJ: https://leetcode.com/problems/longest-word-in-dictionary/
+// Author: A M A N
+// Time : O()
+// Space: O()
+class Solution {
+public:
+    unordered_set<string> dict;
+    string solve(string s){
+        string ans = s;
+        for(char c='a'; c<='z'; c++){
+            string ss = s + c;
+            if(dict.count(ss)){
+                string temp = solve(ss);
+                if(temp.size()>ans.size())
+                    ans = temp;
+                else if(temp.size()==ans.size())
+                    if(temp < ans)
+                        ans = temp;
+            }
+        }
+        return ans;
+    }
+    string longestWord(vector<string>& words) {
+        for(auto &s : words)
+            dict.insert(s);
+        return solve("");
+    }
+};
+```
