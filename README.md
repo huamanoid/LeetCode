@@ -399,6 +399,7 @@
 1913 | Maximum Product Difference Between Two Pairs | Easy | [Solution](leetcode/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
 1920 | Build Array from Permutation | Easy | [Solution](leetcode/1920.%20Build%20Array%20from%20Permutation)
 1929 | Concatenation of Array | Easy | [Solution](leetcode/1929.%20Concatenation%20of%20Array)
+1986 | Minimum Number of Work Sessions to Finish the Tasks | Medium | [Solution](leetcode/1986.%20Minimum%20Number%20of%20Work%20Sessions%20to%20Finish%20the%20Tasks)
 
 ## License
 
