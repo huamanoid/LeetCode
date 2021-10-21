@@ -376,6 +376,7 @@
 1695 | Maximum Erasure Value | Medium | [Solution](leetcode/1695.%20Maximum%20Erasure%20Value)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
 1718 | Construct the Lexicographically Largest Valid Sequence | Medium | [Solution](leetcode/1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence)
+1723 | Find Minimum Time to Finish All Jobs | Hard | [Solution](leetcode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)
 1745 | Palindrome Partitioning IV | Hard | [Solution](leetcode/1745.%20Palindrome%20Partitioning%20IV)
 1760 | Minimum Limit of Balls in a Bag | Medium | [Solution](leetcode/1760.%20Minimum%20Limit%20of%20Balls%20in%20a%20Bag)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
