@@ -71,3 +71,44 @@ public:
     }
 };
 ```
+
+## Solution 2. Divide & Conquer
+
+```cpp
+// OJ: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+// Author: A M A N
+// Time : O(N^2)
+// Space: O(N)
+class Solution {
+public:
+    int solve(string s, int k){
+        map<char, int> freq;
+        for(char c: s)
+            freq[c]++;
+        bool can = true;
+        for(auto [c, f]: freq)
+            if(f<k) 
+                can = false;
+        if(can)
+           return s.size();
+
+           
+        int res = 0;
+        string temp;
+        for(char c: s){
+            if(freq[c]<k){
+                res = max(res, solve(temp, k));
+                temp.clear();
+            }else{
+                temp+=c;
+            }
+        }
+        res = max(res, solve(temp, k));
+        return res;
+    }
+
+    int longestSubstring(string s, int k) {
+        return solve(s, k);
+    }
+};
+```

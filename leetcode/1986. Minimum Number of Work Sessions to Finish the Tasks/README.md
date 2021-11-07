@@ -126,11 +126,13 @@ public:
         string key = encodeState(idx);
         if(dp.find(key)!=dp.end())
             return dp[key];
-    
+
+        // case 1: create new bucket for new slot and check 
         buckets.push_back(tasks[idx]);
         int ans = 1 + solve(tasks, T, idx+1);
         buckets.pop_back();
-    
+
+        // case 2: fit the current task into any previous slots (if possible) and check 
         for(int i=0; i<buckets.size(); i++){
             if(buckets[i]+tasks[idx]>T)continue;
             buckets[i]+=tasks[idx];
