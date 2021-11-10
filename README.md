@@ -296,6 +296,7 @@
 1025 | Divisor Game | Easy | [Solution](leetcode/1025.%20Divisor%20Game)
 1027 | Longest Arithmetic Subsequence | Medium | [Solution](leetcode/1027.%20Longest%20Arithmetic%20Subsequence)
 1046 | Last Stone Weight | Easy | [Solution](leetcode/1046.%20Last%20Stone%20Weight)
+1047 | Remove All Adjacent Duplicates In String | Easy | [Solution](leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)
 1048 | Longest String Chain | Medium | [Solution](leetcode/1048.%20Longest%20String%20Chain)
 1049 | Last Stone Weight II | Medium | [Solution](leetcode/1049.%20Last%20Stone%20Weight%20II)
 1052 | Grumpy Bookstore Owner | Medium | [Solution](leetcode/1052.%20Grumpy%20Bookstore%20Owner)
