@@ -201,6 +201,7 @@
 663:star: | Equal Tree Partition | Medium | [Solution](leetcode/663.%20Equal%20Tree%20Partition)
 671 | Second Minimum Node In a Binary Tree | Easy | [Solution](leetcode/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)
 676 | Implement Magic Dictionary | Medium | [Solution](leetcode/676.%20Implement%20Magic%20Dictionary)
+678 | Valid Parenthesis String | Medium | [Solution](leetcode/678.%20Valid%20Parenthesis%20String)
 681 | Next Closest Time | Medium | [Solution](leetcode/681.%20Next%20Closest%20Time)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 683 | K Empty Slots | Hard | [Solution](leetcode/683.%20K%20Empty%20Slots)
