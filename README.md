@@ -237,6 +237,7 @@
 787 | Cheapest Flights Within K Stops | Medium | [Solution](leetcode/787.%20Cheapest%20Flights%20Within%20K%20Stops)
 796 | Rotate String | Easy | [Solution](leetcode/796.%20Rotate%20String)
 797 | All Paths From Source to Target | Medium | [Solution](leetcode/797.%20All%20Paths%20From%20Source%20to%20Target)
+799 | Champagne Tower | Medium | [Solution](leetcode/799.%20Champagne%20Tower)
 800 | Similar RGB Color | Easy | [Solution](leetcode/800.%20Similar%20RGB%20Color)
 801 | Minimum Swaps To Make Sequences Increasing | Hard | [Solution](leetcode/801.%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing)
 802 | Find Eventual Safe States | Medium | [Solution](leetcode/802.%20Find%20Eventual%20Safe%20States)
