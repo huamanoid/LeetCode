@@ -114,6 +114,7 @@
 279 | Perfect Squares | Medium | [Solution](leetcode/279.%20Perfect%20Squares)
 286:star: | Walls and Gates | Medium | [Solution](leetcode/286.%20Walls%20and%20Gates)
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
+290 | Word Pattern | Easy | [Solution](leetcode/290.%20Word%20Pattern)
 296:star: | Best Meeting Point | Hard | [Solution](leetcode/296.%20Best%20Meeting%20Point)
 297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 298 | Binary Tree Longest Consecutive Sequence | Medium | [Solution](leetcode/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence)
